@@ -1,0 +1,473 @@
+fwd	rev	xform	assay	target
+data/bigwig/ENCFF824DVQ.bigWig	data/bigwig/ENCFF824DVQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me3-mouse
+data/bigwig/ENCFF916YED.bigWig	data/bigwig/ENCFF916YED.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K36me3-mouse
+data/bigwig/ENCFF808TUD.bigWig	data/bigwig/ENCFF808TUD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K79me2-mouse
+data/bigwig/ENCFF059DUD.bigWig	data/bigwig/ENCFF059DUD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K36me3-mouse
+data/bigwig/ENCFF287CVN.bigWig	data/bigwig/ENCFF287CVN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9ac-mouse
+data/bigwig/ENCFF408GNY.bigWig	data/bigwig/ENCFF408GNY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9ac-mouse
+data/bigwig/ENCFF093XZV.bigWig	data/bigwig/ENCFF093XZV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K36me3-mouse
+data/bigwig/ENCFF647RHE.bigWig	data/bigwig/ENCFF647RHE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K79me2-mouse
+data/bigwig/ENCFF249ODO.bigWig	data/bigwig/ENCFF249ODO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9ac-mouse
+data/bigwig/ENCFF959DVZ.bigWig	data/bigwig/ENCFF959DVZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9ac-mouse
+data/bigwig/ENCFF872IVY.bigWig	data/bigwig/ENCFF872IVY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me2-mouse
+data/bigwig/ENCFF739BFS.bigWig	data/bigwig/ENCFF739BFS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me2-mouse
+data/bigwig/ENCFF863ATN.bigWig	data/bigwig/ENCFF863ATN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9me3-mouse
+data/bigwig/ENCFF813FIB.bigWig	data/bigwig/ENCFF813FIB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9me3-mouse
+data/bigwig/ENCFF993YDB.bigWig	data/bigwig/ENCFF993YDB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9me3-mouse
+data/bigwig/ENCFF005ETP.bigWig	data/bigwig/ENCFF005ETP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me2-mouse
+data/bigwig/ENCFF838WKT.bigWig	data/bigwig/ENCFF838WKT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me2-mouse
+data/bigwig/ENCFF928EJF.bigWig	data/bigwig/ENCFF928EJF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me2-mouse
+data/bigwig/ENCFF459UJV.bigWig	data/bigwig/ENCFF459UJV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K79me3-mouse
+data/bigwig/ENCFF428WOE.bigWig	data/bigwig/ENCFF428WOE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K79me2-mouse
+data/bigwig/ENCFF611MPQ.bigWig	data/bigwig/ENCFF611MPQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K36me3-mouse
+data/bigwig/ENCFF418MNH.bigWig	data/bigwig/ENCFF418MNH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K79me2-mouse
+data/bigwig/ENCFF885AVA.bigWig	data/bigwig/ENCFF885AVA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K36me3-mouse
+data/bigwig/ENCFF912GNJ.bigWig	data/bigwig/ENCFF912GNJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27me3-mouse
+data/bigwig/ENCFF090ZKZ.bigWig	data/bigwig/ENCFF090ZKZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27me3-mouse
+data/bigwig/ENCFF346YSZ.bigWig	data/bigwig/ENCFF346YSZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9ac-mouse
+data/bigwig/ENCFF451NJP.bigWig	data/bigwig/ENCFF451NJP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me1-mouse
+data/bigwig/ENCFF286QJO.bigWig	data/bigwig/ENCFF286QJO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9me3-mouse
+data/bigwig/ENCFF502NYV.bigWig	data/bigwig/ENCFF502NYV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27ac-mouse
+data/bigwig/ENCFF902IPK.bigWig	data/bigwig/ENCFF902IPK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27ac-mouse
+data/bigwig/ENCFF998FXE.bigWig	data/bigwig/ENCFF998FXE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27ac-mouse
+data/bigwig/ENCFF921JER.bigWig	data/bigwig/ENCFF921JER.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me1-mouse
+data/bigwig/ENCFF856COU.bigWig	data/bigwig/ENCFF856COU.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me1-mouse
+data/bigwig/ENCFF778MNN.bigWig	data/bigwig/ENCFF778MNN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27ac-mouse
+data/bigwig/ENCFF783XDX.bigWig	data/bigwig/ENCFF783XDX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27me3-mouse
+data/bigwig/ENCFF927PNC.bigWig	data/bigwig/ENCFF927PNC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me1-mouse
+data/bigwig/ENCFF785RNF.bigWig	data/bigwig/ENCFF785RNF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27me3-mouse
+data/bigwig/ENCFF265KID.bigWig	data/bigwig/ENCFF265KID.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me3-mouse
+data/bigwig/ENCFF549TXI.bigWig	data/bigwig/ENCFF549TXI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me1-mouse
+data/bigwig/ENCFF855KHV.bigWig	data/bigwig/ENCFF855KHV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9me3-mouse
+data/bigwig/ENCFF534CNI.bigWig	data/bigwig/ENCFF534CNI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me3-mouse
+data/bigwig/ENCFF727COH.bigWig	data/bigwig/ENCFF727COH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me3-mouse
+data/bigwig/ENCFF747DMA.bigWig	data/bigwig/ENCFF747DMA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27ac-mouse
+data/bigwig/ENCFF590PWL.bigWig	data/bigwig/ENCFF590PWL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27me3-mouse
+data/bigwig/ENCFF767EJO.bigWig	data/bigwig/ENCFF767EJO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me3-mouse
+data/bigwig/ENCFF231WLA.bigWig	data/bigwig/ENCFF231WLA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF783WEG.bigWig	data/bigwig/ENCFF783WEG.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF738ENC.bigWig	data/bigwig/ENCFF738ENC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF890ZKK.bigWig	data/bigwig/ENCFF890ZKK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF334ZMW.bigWig	data/bigwig/ENCFF334ZMW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF222UJQ.bigWig	data/bigwig/ENCFF222UJQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF815YGS.bigWig	data/bigwig/ENCFF815YGS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF326DLM.bigWig	data/bigwig/ENCFF326DLM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF577TFG.bigWig	data/bigwig/ENCFF577TFG.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF270RIF.bigWig	data/bigwig/ENCFF270RIF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF388BNI.bigWig	data/bigwig/ENCFF388BNI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF731VRA.bigWig	data/bigwig/ENCFF731VRA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF046WVP.bigWig	data/bigwig/ENCFF046WVP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF019ZYB.bigWig	data/bigwig/ENCFF019ZYB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF357LDL.bigWig	data/bigwig/ENCFF357LDL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF727CYI.bigWig	data/bigwig/ENCFF727CYI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF907KGU.bigWig	data/bigwig/ENCFF907KGU.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF791BWN.bigWig	data/bigwig/ENCFF791BWN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF931ZAD.bigWig	data/bigwig/ENCFF931ZAD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF498IVV.bigWig	data/bigwig/ENCFF498IVV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF548YUA.bigWig	data/bigwig/ENCFF548YUA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF183OSS.bigWig	data/bigwig/ENCFF183OSS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF168OTX.bigWig	data/bigwig/ENCFF168OTX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF576NPQ.bigWig	data/bigwig/ENCFF576NPQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF932OBF.bigWig	data/bigwig/ENCFF932OBF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF661YMU.bigWig	data/bigwig/ENCFF661YMU.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF351DEF.bigWig	data/bigwig/ENCFF351DEF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF369XRD.bigWig	data/bigwig/ENCFF369XRD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF601XSB.bigWig	data/bigwig/ENCFF601XSB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF673OVH.bigWig	data/bigwig/ENCFF673OVH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF132JYS.bigWig	data/bigwig/ENCFF132JYS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF657VXM.bigWig	data/bigwig/ENCFF657VXM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF580UVX.bigWig	data/bigwig/ENCFF580UVX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF974HLR.bigWig	data/bigwig/ENCFF974HLR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF858PCS.bigWig	data/bigwig/ENCFF858PCS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF780GBM.bigWig	data/bigwig/ENCFF780GBM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF426GNR.bigWig	data/bigwig/ENCFF426GNR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF647PKS.bigWig	data/bigwig/ENCFF647PKS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF038GEA.bigWig	data/bigwig/ENCFF038GEA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF205DHD.bigWig	data/bigwig/ENCFF205DHD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF074TJG.bigWig	data/bigwig/ENCFF074TJG.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+data/bigwig/ENCFF278ROE.bigWig	data/bigwig/ENCFF278ROE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	ATAC-seq	
+data/bigwig/ENCFF390EGX.bigWig	data/bigwig/ENCFF390EGX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	ATAC-seq	
+data/bigwig/ENCFF056AYY.bigWig	data/bigwig/ENCFF056AYY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CHD2-mouse
+data/bigwig/ENCFF950GXL.bigWig	data/bigwig/ENCFF950GXL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	E2F4-mouse
+data/bigwig/ENCFF912IBT.bigWig	data/bigwig/ENCFF912IBT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS2-mouse
+data/bigwig/ENCFF460ERK.bigWig	data/bigwig/ENCFF460ERK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CHD2-mouse
+data/bigwig/ENCFF413FAB.bigWig	data/bigwig/ENCFF413FAB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZKSCAN1-mouse
+data/bigwig/ENCFF415FCG.bigWig	data/bigwig/ENCFF415FCG.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	GATA2-mouse
+data/bigwig/ENCFF208SNZ.bigWig	data/bigwig/ENCFF208SNZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	PAX5-mouse
+data/bigwig/ENCFF386ICE.bigWig	data/bigwig/ENCFF386ICE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MXI1-mouse
+data/bigwig/ENCFF188VPQ.bigWig	data/bigwig/ENCFF188VPQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	RCOR1-mouse
+data/bigwig/ENCFF232NPF.bigWig	data/bigwig/ENCFF232NPF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	JUN-mouse
+data/bigwig/ENCFF120IIY.bigWig	data/bigwig/ENCFF120IIY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2A-mouse
+data/bigwig/ENCFF743CBY.bigWig	data/bigwig/ENCFF743CBY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	UBTF-mouse
+data/bigwig/ENCFF812HTC.bigWig	data/bigwig/ENCFF812HTC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	SIN3A-mouse
+data/bigwig/ENCFF587ZFM.bigWig	data/bigwig/ENCFF587ZFM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZC3H11A-mouse
+data/bigwig/ENCFF462QKI.bigWig	data/bigwig/ENCFF462QKI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZKSCAN1-mouse
+data/bigwig/ENCFF951XKE.bigWig	data/bigwig/ENCFF951XKE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TBP-mouse
+data/bigwig/ENCFF870WUF.bigWig	data/bigwig/ENCFF870WUF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	EP300-mouse
+data/bigwig/ENCFF691GYW.bigWig	data/bigwig/ENCFF691GYW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NELFE-mouse
+data/bigwig/ENCFF021WJH.bigWig	data/bigwig/ENCFF021WJH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	HCFC1-mouse
+data/bigwig/ENCFF312KCJ.bigWig	data/bigwig/ENCFF312KCJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZNF384-mouse
+data/bigwig/ENCFF149VYO.bigWig	data/bigwig/ENCFF149VYO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	GATA1-mouse
+data/bigwig/ENCFF370KHN.bigWig	data/bigwig/ENCFF370KHN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	HCFC1-mouse
+data/bigwig/ENCFF260HOB.bigWig	data/bigwig/ENCFF260HOB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	SIN3A-mouse
+data/bigwig/ENCFF111IFJ.bigWig	data/bigwig/ENCFF111IFJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	EP300-mouse
+data/bigwig/ENCFF798RBX.bigWig	data/bigwig/ENCFF798RBX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TCF12-mouse
+data/bigwig/ENCFF859TRI.bigWig	data/bigwig/ENCFF859TRI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZNF384-mouse
+data/bigwig/ENCFF457MZO.bigWig	data/bigwig/ENCFF457MZO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	USF2-mouse
+data/bigwig/ENCFF664JJY.bigWig	data/bigwig/ENCFF664JJY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	GATA1-mouse
+data/bigwig/ENCFF381DKQ.bigWig	data/bigwig/ENCFF381DKQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ETS1-mouse
+data/bigwig/ENCFF187XRK.bigWig	data/bigwig/ENCFF187XRK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TAL1-mouse
+data/bigwig/ENCFF480EHQ.bigWig	data/bigwig/ENCFF480EHQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	JUND-mouse
+data/bigwig/ENCFF978PCQ.bigWig	data/bigwig/ENCFF978PCQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	USF1-mouse
+data/bigwig/ENCFF396QMY.bigWig	data/bigwig/ENCFF396QMY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	IRF4-mouse
+data/bigwig/ENCFF079ECZ.bigWig	data/bigwig/ENCFF079ECZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	GATA1-mouse
+data/bigwig/ENCFF164KTO.bigWig	data/bigwig/ENCFF164KTO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	BHLHE40-mouse
+data/bigwig/ENCFF050WUY.bigWig	data/bigwig/ENCFF050WUY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MAFK-mouse
+data/bigwig/ENCFF414AZY.bigWig	data/bigwig/ENCFF414AZY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MEF2A-mouse
+data/bigwig/ENCFF110WIY.bigWig	data/bigwig/ENCFF110WIY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CHD2-mouse
+data/bigwig/ENCFF699MKE.bigWig	data/bigwig/ENCFF699MKE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ELF1-mouse
+data/bigwig/ENCFF353HDM.bigWig	data/bigwig/ENCFF353HDM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ELF1-mouse
+data/bigwig/ENCFF096DWO.bigWig	data/bigwig/ENCFF096DWO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	USF1-mouse
+data/bigwig/ENCFF658GZH.bigWig	data/bigwig/ENCFF658GZH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NRF1-mouse
+data/bigwig/ENCFF228DQI.bigWig	data/bigwig/ENCFF228DQI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NRF1-mouse
+data/bigwig/ENCFF413XJO.bigWig	data/bigwig/ENCFF413XJO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TCF12-mouse
+data/bigwig/ENCFF928SNZ.bigWig	data/bigwig/ENCFF928SNZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MAZ-mouse
+data/bigwig/ENCFF960TVK.bigWig	data/bigwig/ENCFF960TVK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	E2F4-mouse
+data/bigwig/ENCFF079YXN.bigWig	data/bigwig/ENCFF079YXN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	GATA4-mouse
+data/bigwig/ENCFF279SEL.bigWig	data/bigwig/ENCFF279SEL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NANOG-mouse
+data/bigwig/ENCFF765AIC.bigWig	data/bigwig/ENCFF765AIC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POU5F1-mouse
+data/bigwig/ENCFF935XNB.bigWig	data/bigwig/ENCFF935XNB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MYC-mouse
+data/bigwig/ENCFF459QRE.bigWig	data/bigwig/ENCFF459QRE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS5-mouse
+data/bigwig/ENCFF416LHE.bigWig	data/bigwig/ENCFF416LHE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS5-mouse
+data/bigwig/ENCFF877EUD.bigWig	data/bigwig/ENCFF877EUD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	USF2-mouse
+data/bigwig/ENCFF919MMB.bigWig	data/bigwig/ENCFF919MMB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZC3H11A-mouse
+data/bigwig/ENCFF013MUZ.bigWig	data/bigwig/ENCFF013MUZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MYB-mouse
+data/bigwig/ENCFF436HXM.bigWig	data/bigwig/ENCFF436HXM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	RAD21-mouse
+data/bigwig/ENCFF821ALF.bigWig	data/bigwig/ENCFF821ALF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	USF1-mouse
+data/bigwig/ENCFF912IVO.bigWig	data/bigwig/ENCFF912IVO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NELFE-mouse
+data/bigwig/ENCFF367GFB.bigWig	data/bigwig/ENCFF367GFB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	FOSL1-mouse
+data/bigwig/ENCFF411OUR.bigWig	data/bigwig/ENCFF411OUR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MYOD1-mouse
+data/bigwig/ENCFF673ENL.bigWig	data/bigwig/ENCFF673ENL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	EP300-mouse
+data/bigwig/ENCFF779LYP.bigWig	data/bigwig/ENCFF779LYP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TBP-mouse
+data/bigwig/ENCFF271ROB.bigWig	data/bigwig/ENCFF271ROB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MAX-mouse
+data/bigwig/ENCFF260NRN.bigWig	data/bigwig/ENCFF260NRN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MYC-mouse
+data/bigwig/ENCFF861CBJ.bigWig	data/bigwig/ENCFF861CBJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MAX-mouse
+data/bigwig/ENCFF427YLZ.bigWig	data/bigwig/ENCFF427YLZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CHD1-mouse
+data/bigwig/ENCFF916EJD.bigWig	data/bigwig/ENCFF916EJD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	RAD21-mouse
+data/bigwig/ENCFF703PHD.bigWig	data/bigwig/ENCFF703PHD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2A-mouse
+data/bigwig/ENCFF889TNH.bigWig	data/bigwig/ENCFF889TNH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MAX-mouse
+data/bigwig/ENCFF189WCE.bigWig	data/bigwig/ENCFF189WCE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	USF2-mouse
+data/bigwig/ENCFF525CJK.bigWig	data/bigwig/ENCFF525CJK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CTCF-mouse
+data/bigwig/ENCFF071WJE.bigWig	data/bigwig/ENCFF071WJE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CHD1-mouse
+data/bigwig/ENCFF826PBD.bigWig	data/bigwig/ENCFF826PBD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	GABPA-mouse
+data/bigwig/ENCFF190LSW.bigWig	data/bigwig/ENCFF190LSW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MAZ-mouse
+data/bigwig/ENCFF993LHS.bigWig	data/bigwig/ENCFF993LHS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2A-mouse
+data/bigwig/ENCFF974JLD.bigWig	data/bigwig/ENCFF974JLD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	EP300-mouse
+data/bigwig/ENCFF173HCU.bigWig	data/bigwig/ENCFF173HCU.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CTCF-mouse
+data/bigwig/ENCFF248ADF.bigWig	data/bigwig/ENCFF248ADF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CTCF-mouse
+data/bigwig/ENCFF070WOR.bigWig	data/bigwig/ENCFF070WOR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MAFK-mouse
+data/bigwig/ENCFF878LDW.bigWig	data/bigwig/ENCFF878LDW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	SMC3-mouse
+data/bigwig/ENCFF100ZST.bigWig	data/bigwig/ENCFF100ZST.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CEBPB-mouse
+data/bigwig/ENCFF008ZFB.bigWig	data/bigwig/ENCFF008ZFB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	RCOR1-mouse
+data/bigwig/ENCFF336KHD.bigWig	data/bigwig/ENCFF336KHD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS2-mouse
+data/bigwig/ENCFF787RZL.bigWig	data/bigwig/ENCFF787RZL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MAFK-mouse
+data/bigwig/ENCFF339BBP.bigWig	data/bigwig/ENCFF339BBP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZNF384-mouse
+data/bigwig/ENCFF993THR.bigWig	data/bigwig/ENCFF993THR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZC3H11A-mouse
+data/bigwig/ENCFF773QRX.bigWig	data/bigwig/ENCFF773QRX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2A-mouse
+data/bigwig/ENCFF606DCS.bigWig	data/bigwig/ENCFF606DCS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CTCF-mouse
+data/bigwig/ENCFF056DIV.bigWig	data/bigwig/ENCFF056DIV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	SMC3-mouse
+data/bigwig/ENCFF393FJP.bigWig	data/bigwig/ENCFF393FJP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZMIZ1-mouse
+data/bigwig/ENCFF646MVV.bigWig	data/bigwig/ENCFF646MVV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	EP300-mouse
+data/bigwig/ENCFF030JTN.bigWig	data/bigwig/ENCFF030JTN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	KAT2A-mouse
+data/bigwig/ENCFF121YIA.bigWig	data/bigwig/ENCFF121YIA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	BHLHE40-mouse
+data/bigwig/ENCFF779DOW.bigWig	data/bigwig/ENCFF779DOW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2A-mouse
+data/bigwig/ENCFF313ONK.bigWig	data/bigwig/ENCFF313ONK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	GABPA-mouse
+data/bigwig/ENCFF154YGN.bigWig	data/bigwig/ENCFF154YGN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	UBTF-mouse
+data/bigwig/ENCFF725NHV.bigWig	data/bigwig/ENCFF725NHV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TAL1-mouse
+data/bigwig/ENCFF697VZK.bigWig	data/bigwig/ENCFF697VZK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	KAT2A-mouse
+data/bigwig/ENCFF253JHJ.bigWig	data/bigwig/ENCFF253JHJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	JUND-mouse
+data/bigwig/ENCFF629RZT.bigWig	data/bigwig/ENCFF629RZT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MXI1-mouse
+data/bigwig/ENCFF989YQT.bigWig	data/bigwig/ENCFF989YQT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZMIZ1-mouse
+data/bigwig/ENCFF321WHD.bigWig	data/bigwig/ENCFF321WHD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ETS1-mouse
+data/bigwig/ENCFF367MVS.bigWig	data/bigwig/ENCFF367MVS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CTCF-mouse
+data/bigwig/ENCFF387KJK.bigWig	data/bigwig/ENCFF387KJK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	HCFC1-mouse
+data/bigwig/pituitary gland, embryo E16.CNhs11036.449-43F6.mm10.ctss.fwd.bw	data/bigwig/pituitary gland, embryo E16.CNhs11036.449-43F6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pituitary gland, embryo E15.CNhs10592.427-16B9.mm10.ctss.fwd.bw	data/bigwig/pituitary gland, embryo E15.CNhs10592.427-16B9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pituitary gland, embryo E14.CNhs11037.398-44A5.mm10.ctss.fwd.bw	data/bigwig/pituitary gland, embryo E14.CNhs11037.398-44A5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pituitary gland, embryo E13.CNhs11009.370-44C7.mm10.ctss.fwd.bw	data/bigwig/pituitary gland, embryo E13.CNhs11009.370-44C7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pituitary gland, embryo E17.CNhs11039.1265-44F5.mm10.ctss.fwd.bw	data/bigwig/pituitary gland, embryo E17.CNhs11039.1265-44F5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pituitary gland, embryo E12.CNhs11018.346-16E6.mm10.ctss.fwd.bw	data/bigwig/pituitary gland, embryo E12.CNhs11018.346-16E6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/stomach, adult.CNhs10503.33-1H6.mm10.ctss.fwd.bw	data/bigwig/stomach, adult.CNhs10503.33-1H6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pancreas, neonate N30.CNhs11182.1548-44H5.mm10.ctss.fwd.bw	data/bigwig/pancreas, neonate N30.CNhs11182.1548-44H5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pancreas, neonate N25.CNhs11094.1555-45E2.mm10.ctss.fwd.bw	data/bigwig/pancreas, neonate N25.CNhs11094.1555-45E2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pancreas, neonate N16.CNhs11136.787-43B6.mm10.ctss.fwd.bw	data/bigwig/pancreas, neonate N16.CNhs11136.787-43B6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pancreas, neonate N02.CNhs11139.1539-43D8.mm10.ctss.fwd.bw	data/bigwig/pancreas, neonate N02.CNhs11139.1539-43D8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pituitary gland, neonate N00.CNhs11190.1308-22E9.mm10.ctss.fwd.bw	data/bigwig/pituitary gland, neonate N00.CNhs11190.1308-22E9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pancreas, neonate N01.CNhs11138.1531-43D7.mm10.ctss.fwd.bw	data/bigwig/pancreas, neonate N01.CNhs11138.1531-43D7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pituitary gland, adult.CNhs10493.21-1G8.mm10.ctss.fwd.bw	data/bigwig/pituitary gland, adult.CNhs10493.21-1G8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/placenta, adult pregnant day10.CNhs10472.539-13I7.mm10.ctss.fwd.bw	data/bigwig/placenta, adult pregnant day10.CNhs10472.539-13I7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/spleen, embryo E18.CNhs11011.1271-21F2.mm10.ctss.fwd.bw	data/bigwig/spleen, embryo E18.CNhs11011.1271-21F2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/prostate, adult.CNhs10470.859-1F8.mm10.ctss.fwd.bw	data/bigwig/prostate, adult.CNhs10470.859-1F8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/skin, adult.CNhs10492.30-1C3.mm10.ctss.fwd.bw	data/bigwig/skin, adult.CNhs10492.30-1C3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/skin, neonate N00.CNhs11124.650-25G4.mm10.ctss.fwd.bw	data/bigwig/skin, neonate N00.CNhs11124.650-25G4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/skin, neonate N03.CNhs11215.662-22H3.mm10.ctss.fwd.bw	data/bigwig/skin, neonate N03.CNhs11215.662-22H3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/skin, neonate N06.CNhs11097.693-20I5.mm10.ctss.fwd.bw	data/bigwig/skin, neonate N06.CNhs11097.693-20I5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/skin, neonate N10.CNhs11108.762-6C4.mm10.ctss.fwd.bw	data/bigwig/skin, neonate N10.CNhs11108.762-6C4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/small intestine, neonate N16.CNhs11114.790-21I1.mm10.ctss.fwd.bw	data/bigwig/small intestine, neonate N16.CNhs11114.790-21I1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/spinal cord, adult.CNhs10505.24-13C9.mm10.ctss.fwd.bw	data/bigwig/spinal cord, adult.CNhs10505.24-13C9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/spleen, adult.CNhs10465.25-2G2.mm10.ctss.fwd.bw	data/bigwig/spleen, adult.CNhs10465.25-2G2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/spleen, embryo E16.CNhs11035.461-43C1.mm10.ctss.fwd.bw	data/bigwig/spleen, embryo E16.CNhs11035.461-43C1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/spleen, neonate N10.CNhs11116.752-24D1.mm10.ctss.fwd.bw	data/bigwig/spleen, neonate N10.CNhs11116.752-24D1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/spleen, neonate N20.CNhs11112.824-19H1.mm10.ctss.fwd.bw	data/bigwig/spleen, neonate N20.CNhs11112.824-19H1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/spleen, neonate N25.CNhs11099.1354-25G3.mm10.ctss.fwd.bw	data/bigwig/spleen, neonate N25.CNhs11099.1354-25G3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pancreas, neonate N00.CNhs11105.645-26G9.mm10.ctss.fwd.bw	data/bigwig/pancreas, neonate N00.CNhs11105.645-26G9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/placenta, adult pregnant day17.CNhs10464.577-18G3.mm10.ctss.fwd.bw	data/bigwig/placenta, adult pregnant day17.CNhs10464.577-18G3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pancreas, embryo E18.CNhs10580.1535-43I7.mm10.ctss.fwd.bw	data/bigwig/pancreas, embryo E18.CNhs10580.1535-43I7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, embryo E15.CNhs11020.432-17C5.mm10.ctss.fwd.bw	data/bigwig/lung, embryo E15.CNhs11020.432-17C5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pancreas, embryo E16.CNhs11003.460-26E5.mm10.ctss.fwd.bw	data/bigwig/pancreas, embryo E16.CNhs11003.460-26E5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, neonate N06.CNhs11212.683-20E5.mm10.ctss.fwd.bw	data/bigwig/lung, neonate N06.CNhs11212.683-20E5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, neonate N00.CNhs11224.640-42C6.mm10.ctss.fwd.bw	data/bigwig/lung, neonate N00.CNhs11224.640-42C6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, embryo E18.CNhs10583.1287-20I6.mm10.ctss.fwd.bw	data/bigwig/lung, embryo E18.CNhs10583.1287-20I6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, embryo E17.CNhs10605.480-44A6.mm10.ctss.fwd.bw	data/bigwig/lung, embryo E17.CNhs10605.480-44A6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, embryo E16.CNhs10998.458-17B6.mm10.ctss.fwd.bw	data/bigwig/lung, embryo E16.CNhs10998.458-17B6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/stomach, embryo E12.CNhs10588.356-43E3.mm10.ctss.fwd.bw	data/bigwig/stomach, embryo E12.CNhs10588.356-43E3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, neonate N07.CNhs11111.715-19A3.mm10.ctss.fwd.bw	data/bigwig/lung, neonate N07.CNhs11111.715-19A3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, embryo E14.CNhs10604.404-26F8.mm10.ctss.fwd.bw	data/bigwig/lung, embryo E14.CNhs10604.404-26F8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, adult.CNhs10474.28-22B1.mm10.ctss.fwd.bw	data/bigwig/lung, adult.CNhs10474.28-22B1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, neonate N30.CNhs11106.1382-42D1.mm10.ctss.fwd.bw	data/bigwig/liver, neonate N30.CNhs11106.1382-42D1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, neonate N25.CNhs11198.1368-26H1.mm10.ctss.fwd.bw	data/bigwig/liver, neonate N25.CNhs11198.1368-26H1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, neonate N20.CNhs11220.823-25A3.mm10.ctss.fwd.bw	data/bigwig/liver, neonate N20.CNhs11220.823-25A3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, neonate N10.CNhs11115.751-24B9.mm10.ctss.fwd.bw	data/bigwig/liver, neonate N10.CNhs11115.751-24B9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, neonate N07.CNhs11103.716-20H2.mm10.ctss.fwd.bw	data/bigwig/liver, neonate N07.CNhs11103.716-20H2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, embryo E12.CNhs10522.354-16G2.mm10.ctss.fwd.bw	data/bigwig/lung, embryo E12.CNhs10522.354-16G2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pancreas, embryo E17.CNhs10599.1558-45G3.mm10.ctss.fwd.bw	data/bigwig/pancreas, embryo E17.CNhs10599.1558-45G3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, neonate N10.CNhs11219.750-23E6.mm10.ctss.fwd.bw	data/bigwig/lung, neonate N10.CNhs11219.750-23E6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, neonate N25.CNhs11119.1359-25C7.mm10.ctss.fwd.bw	data/bigwig/lung, neonate N25.CNhs11119.1359-25C7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pancreas, embryo E15.CNhs11042.1556-45F2.mm10.ctss.fwd.bw	data/bigwig/pancreas, embryo E15.CNhs11042.1556-45F2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pancreas, embryo E14.CNhs11012.405-44F4.mm10.ctss.fwd.bw	data/bigwig/pancreas, embryo E14.CNhs11012.405-44F4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/pancreas, adult.CNhs10486.34-16E4.mm10.ctss.fwd.bw	data/bigwig/pancreas, adult.CNhs10486.34-16E4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/oviduct, adult pregnant day01.CNhs10500.988-6G6.mm10.ctss.fwd.bw	data/bigwig/oviduct, adult pregnant day01.CNhs10500.988-6G6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/ovary, neonate N00.CNhs11217.1299-22I4.mm10.ctss.fwd.bw	data/bigwig/ovary, neonate N00.CNhs11217.1299-22I4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/ovary, embryo E18.CNhs11040.505-44H7.mm10.ctss.fwd.bw	data/bigwig/ovary, embryo E18.CNhs11040.505-44H7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, neonate N20.CNhs11109.822-18A4.mm10.ctss.fwd.bw	data/bigwig/lung, neonate N20.CNhs11109.822-18A4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/ovary, adult.CNhs10507.91-2I7.mm10.ctss.fwd.bw	data/bigwig/ovary, adult.CNhs10507.91-2I7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/muscle (biceps femoris), neonate N30.CNhs11129.1389-42C2.mm10.ctss.fwd.bw	data/bigwig/muscle (biceps femoris), neonate N30.CNhs11129.1389-42C2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/medulla oblongata, neonate N30.CNhs11200.1396-42A3.mm10.ctss.fwd.bw	data/bigwig/medulla oblongata, neonate N30.CNhs11200.1396-42A3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/medulla oblongata, adult.CNhs10477.17-12C2.mm10.ctss.fwd.bw	data/bigwig/medulla oblongata, adult.CNhs10477.17-12C2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/mammary gland, adult pregnant day19.CNhs10476.588-5H2.mm10.ctss.fwd.bw	data/bigwig/mammary gland, adult pregnant day19.CNhs10476.588-5H2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/mammary gland, adult lactating day02.CNhs10480.595-22B6.mm10.ctss.fwd.bw	data/bigwig/mammary gland, adult lactating day02.CNhs10480.595-22B6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/lung, neonate N30.CNhs11133.1394-42H2.mm10.ctss.fwd.bw	data/bigwig/lung, neonate N30.CNhs11133.1394-42H2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/olfactory brain, adult.CNhs10489.18-22I9.mm10.ctss.fwd.bw	data/bigwig/olfactory brain, adult.CNhs10489.18-22I9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/stomach, embryo E15.CNhs10603.1252-16G8.mm10.ctss.fwd.bw	data/bigwig/stomach, embryo E15.CNhs10603.1252-16G8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, neonate N02.CNhs11181.1541-43F8.mm10.ctss.fwd.bw	data/bigwig/thymus, neonate N02.CNhs11181.1541-43F8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/stomach, embryo E17.CNhs11006.1035-18D5.mm10.ctss.fwd.bw	data/bigwig/stomach, embryo E17.CNhs11006.1035-18D5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - Mecp knockout, neonate N15, donor1.CNhs13040.10244-104B1.mm10.ctss.fwd.bw	data/bigwig/visual cortex - Mecp knockout, neonate N15, donor1.CNhs13040.10244-104B1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - Mecp knockout, neonate N15, donor2.CNhs13041.10245-104B2.mm10.ctss.fwd.bw	data/bigwig/visual cortex - Mecp knockout, neonate N15, donor2.CNhs13041.10245-104B2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - Mecp knockout, neonate N15, donor3.CNhs13821.10350-105D8.mm10.ctss.fwd.bw	data/bigwig/visual cortex - Mecp knockout, neonate N15, donor3.CNhs13821.10350-105D8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - Mecp knockout, neonate N30, donor1.CNhs13042.10246-104B3.mm10.ctss.fwd.bw	data/bigwig/visual cortex - Mecp knockout, neonate N30, donor1.CNhs13042.10246-104B3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - Mecp knockout, neonate N30, donor2.CNhs13043.10247-104B4.mm10.ctss.fwd.bw	data/bigwig/visual cortex - Mecp knockout, neonate N30, donor2.CNhs13043.10247-104B4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - Mecp knockout, neonate N30, donor3.CNhs13044.10248-104B5.mm10.ctss.fwd.bw	data/bigwig/visual cortex - Mecp knockout, neonate N30, donor3.CNhs13044.10248-104B5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - Mecp knockout, neonate N60-70, donor1.CNhs13045.10249-104B6.mm10.ctss.fwd.bw	data/bigwig/visual cortex - Mecp knockout, neonate N60-70, donor1.CNhs13045.10249-104B6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - Mecp knockout, neonate N60-70, donor2.CNhs13046.10250-104B7.mm10.ctss.fwd.bw	data/bigwig/visual cortex - Mecp knockout, neonate N60-70, donor2.CNhs13046.10250-104B7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - Mecp knockout, neonate N60-70, donor3.CNhs13048.10251-104B8.mm10.ctss.fwd.bw	data/bigwig/visual cortex - Mecp knockout, neonate N60-70, donor3.CNhs13048.10251-104B8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - wildtype, neonate N15, donor1.CNhs13031.10235-104A1.mm10.ctss.fwd.bw	data/bigwig/visual cortex - wildtype, neonate N15, donor1.CNhs13031.10235-104A1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - wildtype, neonate N15, donor2.CNhs13032.10236-104A2.mm10.ctss.fwd.bw	data/bigwig/visual cortex - wildtype, neonate N15, donor2.CNhs13032.10236-104A2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - wildtype, neonate N15, donor3.CNhs13033.10237-104A3.mm10.ctss.fwd.bw	data/bigwig/visual cortex - wildtype, neonate N15, donor3.CNhs13033.10237-104A3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - wildtype, neonate N15, donor5.CNhs13820.10349-105D7.mm10.ctss.fwd.bw	data/bigwig/visual cortex - wildtype, neonate N15, donor5.CNhs13820.10349-105D7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - wildtype, neonate N30, donor1.CNhs13034.10238-104A4.mm10.ctss.fwd.bw	data/bigwig/visual cortex - wildtype, neonate N30, donor1.CNhs13034.10238-104A4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - wildtype, neonate N30, donor2.CNhs13035.10239-104A5.mm10.ctss.fwd.bw	data/bigwig/visual cortex - wildtype, neonate N30, donor2.CNhs13035.10239-104A5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - wildtype, neonate N30, donor3.CNhs13036.10240-104A6.mm10.ctss.fwd.bw	data/bigwig/visual cortex - wildtype, neonate N30, donor3.CNhs13036.10240-104A6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - wildtype, neonate N60-70, donor1.CNhs13037.10241-104A7.mm10.ctss.fwd.bw	data/bigwig/visual cortex - wildtype, neonate N60-70, donor1.CNhs13037.10241-104A7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, neonate N06.CNhs11101.684-20A8.mm10.ctss.fwd.bw	data/bigwig/liver, neonate N06.CNhs11101.684-20A8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, neonate N01.CNhs10576.659-23C6.mm10.ctss.fwd.bw	data/bigwig/whole body, neonate N01.CNhs10576.659-23C6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, neonate N00.CNhs10525.657-19C2.mm10.ctss.fwd.bw	data/bigwig/whole body, neonate N00.CNhs10525.657-19C2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, embryo E18.CNhs10516.493-3B3.mm10.ctss.fwd.bw	data/bigwig/whole body, embryo E18.CNhs10516.493-3B3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, embryo E17.CNhs10517.475-3I5.mm10.ctss.fwd.bw	data/bigwig/whole body, embryo E17.CNhs10517.475-3I5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, embryo E17.5.CNhs10513.490-9F9.mm10.ctss.fwd.bw	data/bigwig/whole body, embryo E17.5.CNhs10513.490-9F9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/vesicular gland, adult.CNhs10491.51-27F8.mm10.ctss.fwd.bw	data/bigwig/vesicular gland, adult.CNhs10491.51-27F8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, embryo E16.CNhs10514.453-14F2.mm10.ctss.fwd.bw	data/bigwig/whole body, embryo E16.CNhs10514.453-14F2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, embryo E14.5.CNhs10578.420-27D2.mm10.ctss.fwd.bw	data/bigwig/whole body, embryo E14.5.CNhs10578.420-27D2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, embryo E13.CNhs10512.372-23H2.mm10.ctss.fwd.bw	data/bigwig/whole body, embryo E13.CNhs10512.372-23H2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, embryo E12.CNhs10587.857-27C9.mm10.ctss.fwd.bw	data/bigwig/whole body, embryo E12.CNhs10587.857-27C9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, embryo E11.CNhs11014.324-5I8.mm10.ctss.fwd.bw	data/bigwig/whole body, embryo E11.CNhs11014.324-5I8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - wildtype, neonate N60-70, donor3.CNhs13039.10243-104A9.mm10.ctss.fwd.bw	data/bigwig/visual cortex - wildtype, neonate N60-70, donor3.CNhs13039.10243-104A9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/visual cortex - wildtype, neonate N60-70, donor2.CNhs13038.10242-104A8.mm10.ctss.fwd.bw	data/bigwig/visual cortex - wildtype, neonate N60-70, donor2.CNhs13038.10242-104A8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, embryo E14.CNhs10519.395-14B1.mm10.ctss.fwd.bw	data/bigwig/whole body, embryo E14.CNhs10519.395-14B1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/vagina, adult.CNhs10502.89-27D5.mm10.ctss.fwd.bw	data/bigwig/vagina, adult.CNhs10502.89-27D5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/uterus, adult.CNhs10509.92-27E5.mm10.ctss.fwd.bw	data/bigwig/uterus, adult.CNhs10509.92-27E5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/uterus, adult pregnant day19.CNhs10497.590-15F5.mm10.ctss.fwd.bw	data/bigwig/uterus, adult pregnant day19.CNhs10497.590-15F5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/testis, neonate N07.CNhs11222.726-26I4.mm10.ctss.fwd.bw	data/bigwig/testis, neonate N07.CNhs11222.726-26I4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/testis, neonate N00.CNhs11189.1300-22B7.mm10.ctss.fwd.bw	data/bigwig/testis, neonate N00.CNhs11189.1300-22B7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/testis, embryo E18.CNhs11027.503-18G5.mm10.ctss.fwd.bw	data/bigwig/testis, embryo E18.CNhs11027.503-18G5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/testis, embryo E17.CNhs11029.486-18I5.mm10.ctss.fwd.bw	data/bigwig/testis, embryo E17.CNhs11029.486-18I5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/testis, embryo E16.CNhs11033.470-26G5.mm10.ctss.fwd.bw	data/bigwig/testis, embryo E16.CNhs11033.470-26G5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/testis, embryo E15.CNhs11034.443-27C5.mm10.ctss.fwd.bw	data/bigwig/testis, embryo E15.CNhs11034.443-27C5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/testis, neonate N10.CNhs11204.763-44D9.mm10.ctss.fwd.bw	data/bigwig/testis, neonate N10.CNhs11204.763-44D9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/testis, embryo E13.CNhs11031.389-23F5.mm10.ctss.fwd.bw	data/bigwig/testis, embryo E13.CNhs11031.389-23F5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/submandibular gland, adult.CNhs10469.59-29C1.mm10.ctss.fwd.bw	data/bigwig/submandibular gland, adult.CNhs10469.59-29C1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/stomach, neonate N30.CNhs11134.1386-42I1.mm10.ctss.fwd.bw	data/bigwig/stomach, neonate N30.CNhs11134.1386-42I1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/stomach, neonate N25.CNhs11104.1355-25E4.mm10.ctss.fwd.bw	data/bigwig/stomach, neonate N25.CNhs11104.1355-25E4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/stomach, neonate N07.CNhs11210.718-18A9.mm10.ctss.fwd.bw	data/bigwig/stomach, neonate N07.CNhs11210.718-18A9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/stomach, neonate N03.CNhs11193.1340-24B8.mm10.ctss.fwd.bw	data/bigwig/stomach, neonate N03.CNhs11193.1340-24B8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/stomach, embryo E18.CNhs10999.1286-20C6.mm10.ctss.fwd.bw	data/bigwig/stomach, embryo E18.CNhs10999.1286-20C6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/testis, adult.CNhs10504.57-7G5.mm10.ctss.fwd.bw	data/bigwig/testis, adult.CNhs10504.57-7G5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/stomach, embryo E16.CNhs11022.459-17D4.mm10.ctss.fwd.bw	data/bigwig/stomach, embryo E16.CNhs11022.459-17D4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/testis, neonate N20.CNhs11110.839-18H3.mm10.ctss.fwd.bw	data/bigwig/testis, neonate N20.CNhs11110.839-18H3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, adult.CNhs10471.38-12B5.mm10.ctss.fwd.bw	data/bigwig/thymus, adult.CNhs10471.38-12B5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/urinary bladder, adult.CNhs10481.879-12E4.mm10.ctss.fwd.bw	data/bigwig/urinary bladder, adult.CNhs10481.879-12E4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/tongue, adult.CNhs10499.32-1B4.mm10.ctss.fwd.bw	data/bigwig/tongue, adult.CNhs10499.32-1B4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, neonate N30.CNhs11132.1393-42G2.mm10.ctss.fwd.bw	data/bigwig/thymus, neonate N30.CNhs11132.1393-42G2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, neonate N25.CNhs11125.1362-25G7.mm10.ctss.fwd.bw	data/bigwig/thymus, neonate N25.CNhs11125.1362-25G7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, neonate N20.CNhs11186.820-7A2.mm10.ctss.fwd.bw	data/bigwig/thymus, neonate N20.CNhs11186.820-7A2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, neonate N10.CNhs11194.748-24E4.mm10.ctss.fwd.bw	data/bigwig/thymus, neonate N10.CNhs11194.748-24E4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/testis, neonate N30.CNhs11130.1391-42E2.mm10.ctss.fwd.bw	data/bigwig/testis, neonate N30.CNhs11130.1391-42E2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, neonate N07.CNhs11211.713-19D3.mm10.ctss.fwd.bw	data/bigwig/thymus, neonate N07.CNhs11211.713-19D3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, neonate N03.CNhs11137.2104-43C7.mm10.ctss.fwd.bw	data/bigwig/thymus, neonate N03.CNhs11137.2104-43C7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, embryo E18.CNhs10595.1273-19G4.mm10.ctss.fwd.bw	data/bigwig/thymus, embryo E18.CNhs10595.1273-19G4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, embryo E17.CNhs10581.478-18C1.mm10.ctss.fwd.bw	data/bigwig/thymus, embryo E17.CNhs10581.478-18C1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, embryo E16.CNhs11002.456-26C5.mm10.ctss.fwd.bw	data/bigwig/thymus, embryo E16.CNhs11002.456-26C5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, embryo E15.CNhs11005.430-45I2.mm10.ctss.fwd.bw	data/bigwig/thymus, embryo E15.CNhs11005.430-45I2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, embryo E14.CNhs11041.402-44I4.mm10.ctss.fwd.bw	data/bigwig/thymus, embryo E14.CNhs11041.402-44I4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/thymus, neonate N06.CNhs11197.681-26C4.mm10.ctss.fwd.bw	data/bigwig/thymus, neonate N06.CNhs11197.681-26C4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, neonate N03.CNhs11123.1345-25G2.mm10.ctss.fwd.bw	data/bigwig/liver, neonate N03.CNhs11123.1345-25G2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E18, biol_rep1 (E18R1).CNhs12962.10121-102F4.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E18, biol_rep1 (E18R1).CNhs12962.10121-102F4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, embryo E18.CNhs10579.499-43G4.mm10.ctss.fwd.bw	data/bigwig/liver, embryo E18.CNhs10579.499-43G4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E15, biol_rep2 (E15R2).CNhs13006.10130-102G4.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E15, biol_rep2 (E15R2).CNhs13006.10130-102G4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E15, biol_rep3 (E15R3).CNhs13018.10142-102H7.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E15, biol_rep3 (E15R3).CNhs13018.10142-102H7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E16, biol_rep1 (E16R1).CNhs13000.10119-102F2.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E16, biol_rep1 (E16R1).CNhs13000.10119-102F2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E16, biol_rep2 (E16R2).CNhs13007.10131-102G5.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E16, biol_rep2 (E16R2).CNhs13007.10131-102G5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E16, biol_rep3 (E16R3).CNhs13019.10143-102H8.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E16, biol_rep3 (E16R3).CNhs13019.10143-102H8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E17, biol_rep1 (E17R1).CNhs12818.10120-102F3.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E17, biol_rep1 (E17R1).CNhs12818.10120-102F3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E17, biol_rep2 (E17R2).CNhs13008.10132-102G6.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E17, biol_rep2 (E17R2).CNhs13008.10132-102G6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E17, biol_rep3 (E17R3).CNhs13020.10144-102H9.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E17, biol_rep3 (E17R3).CNhs13020.10144-102H9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, neonate N06.CNhs10515.692-21D1.mm10.ctss.fwd.bw	data/bigwig/whole body, neonate N06.CNhs10515.692-21D1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E18, biol_rep2 (E18R2).CNhs13009.10133-102G7.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E18, biol_rep2 (E18R2).CNhs13009.10133-102G7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E18, biol_rep3 (E18R3).CNhs13021.10145-102I1.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E18, biol_rep3 (E18R3).CNhs13021.10145-102I1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N00, biol_rep1 (P0R1).CNhs12963.10122-102F5.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N00, biol_rep1 (P0R1).CNhs12963.10122-102F5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N00, biol_rep2 (P0R2).CNhs13010.10134-102G8.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N00, biol_rep2 (P0R2).CNhs13010.10134-102G8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N00, biol_rep3 (P0R3).CNhs13022.10146-102I2.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N00, biol_rep3 (P0R3).CNhs13022.10146-102I2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N03, biol_rep1 (P3R1).CNhs13001.10123-102F6.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N03, biol_rep1 (P3R1).CNhs13001.10123-102F6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N03, biol_rep2 (P3R2).CNhs13011.10135-102G9.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N03, biol_rep2 (P3R2).CNhs13011.10135-102G9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N03, biol_rep3 (P3R3).CNhs13024.10147-102I3.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N03, biol_rep3 (P3R3).CNhs13024.10147-102I3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/diencephalon, adult.CNhs10482.20-12F2.mm10.ctss.fwd.bw	data/bigwig/diencephalon, adult.CNhs10482.20-12F2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cortex, neonate N30.CNhs11107.1392-42F2.mm10.ctss.fwd.bw	data/bigwig/cortex, neonate N30.CNhs11107.1392-42F2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cortex, adult.CNhs10473.12-14D5.mm10.ctss.fwd.bw	data/bigwig/cortex, adult.CNhs10473.12-14D5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/corpus striatum, neonate N00.CNhs11226.630-43F1.mm10.ctss.fwd.bw	data/bigwig/corpus striatum, neonate N00.CNhs11226.630-43F1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/corpus striatum, adult.CNhs10487.19-21D8.mm10.ctss.fwd.bw	data/bigwig/corpus striatum, adult.CNhs10487.19-21D8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/corpora quadrigemina, adult.CNhs10501.16-22A4.mm10.ctss.fwd.bw	data/bigwig/corpora quadrigemina, adult.CNhs10501.16-22A4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E15, biol_rep1 (E15R1).CNhs12961.10118-102F1.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E15, biol_rep1 (E15R1).CNhs12961.10118-102F1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/colon, adult.CNhs10468.36-18H7.mm10.ctss.fwd.bw	data/bigwig/colon, adult.CNhs10468.36-18H7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N09, biol_rep3 (P9R3).CNhs13026.10149-102I5.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N09, biol_rep3 (P9R3).CNhs13026.10149-102I5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N09, biol_rep2 (P9R2).CNhs13013.10137-102H2.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N09, biol_rep2 (P9R2).CNhs13013.10137-102H2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N09, biol_rep1 (P9R1).CNhs12820.10125-102F8.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N09, biol_rep1 (P9R1).CNhs12820.10125-102F8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N06, biol_rep3 (P6R3).CNhs13025.10148-102I4.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N06, biol_rep3 (P6R3).CNhs13025.10148-102I4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N06, biol_rep2 (P6R2).CNhs13012.10136-102H1.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N06, biol_rep2 (P6R2).CNhs13012.10136-102H1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N06, biol_rep1 (P6R1).CNhs12819.10124-102F7.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N06, biol_rep1 (P6R1).CNhs12819.10124-102F7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, neonate N30.CNhs11135.1395-42I2.mm10.ctss.fwd.bw	data/bigwig/cerebellum, neonate N30.CNhs11135.1395-42I2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/diencephalon, neonate N30.CNhs11201.1388-42B2.mm10.ctss.fwd.bw	data/bigwig/diencephalon, neonate N30.CNhs11201.1388-42B2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E14, biol_rep3 (E14R3).CNhs13017.10141-102H6.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E14, biol_rep3 (E14R3).CNhs13017.10141-102H6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E14, biol_rep1 (E14R1).CNhs12960.10117-102E9.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E14, biol_rep1 (E14R1).CNhs12960.10117-102E9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/Clontech Mouse Universal Reference Total RNA, pool1.CNhs10609.10001-101A3.mm10.ctss.fwd.bw	data/bigwig/Clontech Mouse Universal Reference Total RNA, pool1.CNhs10609.10001-101A3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/Follicle Associated Epithelium, pool2.CNhs13211.10262-104D1.mm10.ctss.fwd.bw	data/bigwig/Follicle Associated Epithelium, pool2.CNhs13211.10262-104D1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/Follicle Associated Epithelium, pool3.CNhs13200.10263-104D2.mm10.ctss.fwd.bw	data/bigwig/Follicle Associated Epithelium, pool3.CNhs13200.10263-104D2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/Ileum epithelium, pool1.CNhs13199.10252-104B9.mm10.ctss.fwd.bw	data/bigwig/Ileum epithelium, pool1.CNhs13199.10252-104B9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/SABiosciences XpressRef Mouse Universal Total RNA, pool1.CNhs10611.10003-101A7.mm10.ctss.fwd.bw	data/bigwig/SABiosciences XpressRef Mouse Universal Total RNA, pool1.CNhs10611.10003-101A7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/Universal RNA - Mouse Normal Tissues Biochain, pool1.CNhs10613.10008-101B6.mm10.ctss.fwd.bw	data/bigwig/Universal RNA - Mouse Normal Tissues Biochain, pool1.CNhs10613.10008-101B6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/accessory axillary lymph node, adult.CNhs10475.1063-29H9.mm10.ctss.fwd.bw	data/bigwig/accessory axillary lymph node, adult.CNhs10475.1063-29H9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/adrenal gland, adult.CNhs10508.49-24D7.mm10.ctss.fwd.bw	data/bigwig/adrenal gland, adult.CNhs10508.49-24D7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/adrenal gland, embryo E14.CNhs11038.406-44C5.mm10.ctss.fwd.bw	data/bigwig/adrenal gland, embryo E14.CNhs11038.406-44C5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/adrenal gland, embryo E16.CNhs11004.1254-43D6.mm10.ctss.fwd.bw	data/bigwig/adrenal gland, embryo E16.CNhs11004.1254-43D6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/adrenal gland, embryo E17.CNhs11043.1263-45I1.mm10.ctss.fwd.bw	data/bigwig/adrenal gland, embryo E17.CNhs11043.1263-45I1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/adrenal gland, embryo E18.CNhs11026.1262-18F5.mm10.ctss.fwd.bw	data/bigwig/adrenal gland, embryo E18.CNhs11026.1262-18F5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/adrenal gland, neonate N00.CNhs11191.1311-23C1.mm10.ctss.fwd.bw	data/bigwig/adrenal gland, neonate N00.CNhs11191.1311-23C1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/adrenal gland, neonate N25.CNhs11223.1377-27I3.mm10.ctss.fwd.bw	data/bigwig/adrenal gland, neonate N25.CNhs11223.1377-27I3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/amnion, adult pregnant day17.5.CNhs10488.583-22A8.mm10.ctss.fwd.bw	data/bigwig/amnion, adult pregnant day17.5.CNhs10488.583-22A8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/aorta, adult.CNhs10498.46-23H1.mm10.ctss.fwd.bw	data/bigwig/aorta, adult.CNhs10498.46-23H1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/bone (os femoris), adult.CNhs10483.56-12G2.mm10.ctss.fwd.bw	data/bigwig/bone (os femoris), adult.CNhs10483.56-12G2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E13, biol_rep3 (E13R3).CNhs13016.10140-102H5.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E13, biol_rep3 (E13R3).CNhs13016.10140-102H5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E13, biol_rep2 (E13R2).CNhs13004.10128-102G2.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E13, biol_rep2 (E13R2).CNhs13004.10128-102G2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E13, biol_rep1 (E13R1).CNhs12958.10116-102E8.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E13, biol_rep1 (E13R1).CNhs12958.10116-102E8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E12, biol_rep3 (E12R3).CNhs13015.10139-102H4.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E12, biol_rep3 (E12R3).CNhs13015.10139-102H4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E12, biol_rep2 (E12R2).CNhs13003.10127-102G1.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E12, biol_rep2 (E12R2).CNhs13003.10127-102G1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E12, biol_rep1 (E12R1).CNhs12957.10115-102E7.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E12, biol_rep1 (E12R1).CNhs12957.10115-102E7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E14, biol_rep2 (E14R2).CNhs13005.10129-102G3.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E14, biol_rep2 (E14R2).CNhs13005.10129-102G3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E11, biol_rep3 (E11R3).CNhs13014.10138-102H3.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E11, biol_rep3 (E11R3).CNhs13014.10138-102H3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E11, biol_rep1 (E11R1).CNhs12956.10114-102E6.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E11, biol_rep1 (E11R1).CNhs12956.10114-102E6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, adult.CNhs10494.15-8B2.mm10.ctss.fwd.bw	data/bigwig/cerebellum, adult.CNhs10494.15-8B2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cecum, adult.CNhs10467.37-13H4.mm10.ctss.fwd.bw	data/bigwig/cecum, adult.CNhs10467.37-13H4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/bone (os femoris), neonate N20.CNhs11195.1350-25C3.mm10.ctss.fwd.bw	data/bigwig/bone (os femoris), neonate N20.CNhs11195.1350-25C3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/bone (os femoris), neonate N16.CNhs11225.1525-43A6.mm10.ctss.fwd.bw	data/bigwig/bone (os femoris), neonate N16.CNhs11225.1525-43A6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/bone (os femoris), neonate N02.CNhs11227.1985-43F5.mm10.ctss.fwd.bw	data/bigwig/bone (os femoris), neonate N02.CNhs11227.1985-43F5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/cerebellum, embryo E11, biol_rep2 (E11R2).CNhs13002.10126-102F9.mm10.ctss.fwd.bw	data/bigwig/cerebellum, embryo E11, biol_rep2 (E11R2).CNhs13002.10126-102F9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/epididymis and seminiferous tubule, neonate N00.CNhs11218.1310-23B1.mm10.ctss.fwd.bw	data/bigwig/epididymis and seminiferous tubule, neonate N00.CNhs11218.1310-23B1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/epididymis and seminiferous tubule, neonate N30.CNhs11199.1387-42A2.mm10.ctss.fwd.bw	data/bigwig/epididymis and seminiferous tubule, neonate N30.CNhs11199.1387-42A2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/epididymis, adult.CNhs10490.58-23B2.mm10.ctss.fwd.bw	data/bigwig/epididymis, adult.CNhs10490.58-23B2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, embryo E12.CNhs11019.1251-16I5.mm10.ctss.fwd.bw	data/bigwig/intestine, embryo E12.CNhs11019.1251-16I5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, embryo E13.CNhs11010.381-16D5.mm10.ctss.fwd.bw	data/bigwig/intestine, embryo E13.CNhs11010.381-16D5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, embryo E15.CNhs10602.976-16D8.mm10.ctss.fwd.bw	data/bigwig/intestine, embryo E15.CNhs10602.976-16D8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, embryo E16.CNhs10585.463-22H4.mm10.ctss.fwd.bw	data/bigwig/intestine, embryo E16.CNhs10585.463-22H4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, embryo E17.CNhs10582.482-18D3.mm10.ctss.fwd.bw	data/bigwig/intestine, embryo E17.CNhs10582.482-18D3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, embryo E18.CNhs10526.1289-20F7.mm10.ctss.fwd.bw	data/bigwig/intestine, embryo E18.CNhs10526.1289-20F7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, neonate N00.CNhs11126.644-26D1.mm10.ctss.fwd.bw	data/bigwig/intestine, neonate N00.CNhs11126.644-26D1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, neonate N01.CNhs11192.1322-23E9.mm10.ctss.fwd.bw	data/bigwig/intestine, neonate N01.CNhs11192.1322-23E9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, neonate N06.CNhs11102.688-20B8.mm10.ctss.fwd.bw	data/bigwig/intestine, neonate N06.CNhs11102.688-20B8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, neonate N07.CNhs11095.720-20F2.mm10.ctss.fwd.bw	data/bigwig/intestine, neonate N07.CNhs11095.720-20F2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, neonate N10.CNhs11098.755-23A5.mm10.ctss.fwd.bw	data/bigwig/intestine, neonate N10.CNhs11098.755-23A5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, neonate N20.CNhs11187.827-18D1.mm10.ctss.fwd.bw	data/bigwig/intestine, neonate N20.CNhs11187.827-18D1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, neonate N25.CNhs11121.1352-25E3.mm10.ctss.fwd.bw	data/bigwig/intestine, neonate N25.CNhs11121.1352-25E3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, neonate N30.CNhs11131.1384-42G1.mm10.ctss.fwd.bw	data/bigwig/intestine, neonate N30.CNhs11131.1384-42G1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/kidney, embryo E14.CNhs10606.411-4I9.mm10.ctss.fwd.bw	data/bigwig/kidney, embryo E14.CNhs10606.411-4I9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/kidney, embryo E15.CNhs10997.434-16F8.mm10.ctss.fwd.bw	data/bigwig/kidney, embryo E15.CNhs10997.434-16F8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/kidney, embryo E16.CNhs10584.464-22A5.mm10.ctss.fwd.bw	data/bigwig/kidney, embryo E16.CNhs10584.464-22A5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, embryo E17.CNhs10510.481-18A3.mm10.ctss.fwd.bw	data/bigwig/liver, embryo E17.CNhs10510.481-18A3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, embryo E16.CNhs10523.462-17F5.mm10.ctss.fwd.bw	data/bigwig/liver, embryo E16.CNhs10523.462-17F5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, embryo E15.CNhs10520.433-16D7.mm10.ctss.fwd.bw	data/bigwig/liver, embryo E15.CNhs10520.433-16D7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, embryo E14.CNhs10594.409-16E1.mm10.ctss.fwd.bw	data/bigwig/liver, embryo E14.CNhs10594.409-16E1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, embryo E13.CNhs10524.378-3H6.mm10.ctss.fwd.bw	data/bigwig/liver, embryo E13.CNhs10524.378-3H6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, embryo E12.CNhs10601.355-15F8.mm10.ctss.fwd.bw	data/bigwig/liver, embryo E12.CNhs10601.355-15F8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestine, adult.CNhs10496.178-9A3.mm10.ctss.fwd.bw	data/bigwig/intestine, adult.CNhs10496.178-9A3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, adult pregnant day01.CNhs10466.508-5B2.mm10.ctss.fwd.bw	data/bigwig/liver, adult pregnant day01.CNhs10466.508-5B2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/kidney, neonate N25.CNhs11122.1353-25F3.mm10.ctss.fwd.bw	data/bigwig/kidney, neonate N25.CNhs11122.1353-25F3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/kidney, neonate N20.CNhs11113.832-19I1.mm10.ctss.fwd.bw	data/bigwig/kidney, neonate N20.CNhs11113.832-19I1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/kidney, neonate N10.CNhs11206.758-6D5.mm10.ctss.fwd.bw	data/bigwig/kidney, neonate N10.CNhs11206.758-6D5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/kidney, neonate N00.CNhs11214.646-21G7.mm10.ctss.fwd.bw	data/bigwig/kidney, neonate N00.CNhs11214.646-21G7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/kidney, embryo E18.CNhs11001.1288-20C7.mm10.ctss.fwd.bw	data/bigwig/kidney, embryo E18.CNhs11001.1288-20C7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/kidney, embryo E17.CNhs11028.483-18I2.mm10.ctss.fwd.bw	data/bigwig/kidney, embryo E17.CNhs11028.483-18I2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/kidney, neonate N30.CNhs11203.1385-42H1.mm10.ctss.fwd.bw	data/bigwig/kidney, neonate N30.CNhs11203.1385-42H1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/intestinal mucosa, adult.CNhs10506.860-29I3.mm10.ctss.fwd.bw	data/bigwig/intestinal mucosa, adult.CNhs10506.860-29I3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/hippocampus, neonate N00.CNhs11228.627-43G1.mm10.ctss.fwd.bw	data/bigwig/hippocampus, neonate N00.CNhs11228.627-43G1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/hippocampus, adult.CNhs10478.13-16E8.mm10.ctss.fwd.bw	data/bigwig/hippocampus, adult.CNhs10478.13-16E8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/forelimb, embryo E15.CNhs11007.437-20E7.mm10.ctss.fwd.bw	data/bigwig/forelimb, embryo E15.CNhs11007.437-20E7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/forelimb, embryo E14.CNhs10577.413-26A8.mm10.ctss.fwd.bw	data/bigwig/forelimb, embryo E14.CNhs10577.413-26A8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/forelimb, embryo E13.CNhs10589.384-1E2.mm10.ctss.fwd.bw	data/bigwig/forelimb, embryo E13.CNhs10589.384-1E2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/forelimb, embryo E12.CNhs10600.359-14H2.mm10.ctss.fwd.bw	data/bigwig/forelimb, embryo E12.CNhs10600.359-14H2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/forelimb, embryo E11.CNhs10596.335-25E2.mm10.ctss.fwd.bw	data/bigwig/forelimb, embryo E11.CNhs10596.335-25E2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/eyeball, neonate N16.CNhs11188.777-19A2.mm10.ctss.fwd.bw	data/bigwig/eyeball, neonate N16.CNhs11188.777-19A2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/forelimb, embryo E17.CNhs10598.1517-43C4.mm10.ctss.fwd.bw	data/bigwig/forelimb, embryo E17.CNhs10598.1517-43C4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/eyeball, neonate N02.CNhs11205.1551-44G8.mm10.ctss.fwd.bw	data/bigwig/eyeball, neonate N02.CNhs11205.1551-44G8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/eyeball, neonate N00.CNhs11207.633-15C6.mm10.ctss.fwd.bw	data/bigwig/eyeball, neonate N00.CNhs11207.633-15C6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/eyeball, embryo E17.CNhs11023.1261-18D4.mm10.ctss.fwd.bw	data/bigwig/eyeball, embryo E17.CNhs11023.1261-18D4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/eyeball, embryo E15.CNhs10593.426-16C9.mm10.ctss.fwd.bw	data/bigwig/eyeball, embryo E15.CNhs10593.426-16C9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/eyeball, embryo E14.CNhs10521.399-16E2.mm10.ctss.fwd.bw	data/bigwig/eyeball, embryo E14.CNhs10521.399-16E2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/eyeball, embryo E12.CNhs11016.345-16C6.mm10.ctss.fwd.bw	data/bigwig/eyeball, embryo E12.CNhs11016.345-16C6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/eyeball, adult.CNhs10484.31-12G4.mm10.ctss.fwd.bw	data/bigwig/eyeball, adult.CNhs10484.31-12G4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/eyeball, neonate N01.CNhs11140.1532-43E7.mm10.ctss.fwd.bw	data/bigwig/eyeball, neonate N01.CNhs11140.1532-43E7.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/liver, neonate N00.CNhs11117.641-24F4.mm10.ctss.fwd.bw	data/bigwig/liver, neonate N00.CNhs11117.641-24F4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/forelimb, embryo E18.CNhs11008.1520-43B5.mm10.ctss.fwd.bw	data/bigwig/forelimb, embryo E18.CNhs11008.1520-43B5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, embryo E11.CNhs10586.331-24E9.mm10.ctss.fwd.bw	data/bigwig/heart, embryo E11.CNhs10586.331-24E9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, neonate N30.CNhs11202.1390-42D2.mm10.ctss.fwd.bw	data/bigwig/heart, neonate N30.CNhs11202.1390-42D2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, neonate N25.CNhs11196.1351-25D3.mm10.ctss.fwd.bw	data/bigwig/heart, neonate N25.CNhs11196.1351-25D3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, neonate N20.CNhs11127.821-26I6.mm10.ctss.fwd.bw	data/bigwig/heart, neonate N20.CNhs11127.821-26I6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, neonate N16.CNhs11209.782-15G1.mm10.ctss.fwd.bw	data/bigwig/heart, neonate N16.CNhs11209.782-15G1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, neonate N10.CNhs11118.749-24G1.mm10.ctss.fwd.bw	data/bigwig/heart, neonate N10.CNhs11118.749-24G1.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, neonate N03.CNhs11221.1349-25I2.mm10.ctss.fwd.bw	data/bigwig/heart, neonate N03.CNhs11221.1349-25I2.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/gonad, embryo E13.CNhs11044.1564-45I6.mm10.ctss.fwd.bw	data/bigwig/gonad, embryo E13.CNhs11044.1564-45I6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, neonate N00.CNhs11213.639-21E3.mm10.ctss.fwd.bw	data/bigwig/heart, neonate N00.CNhs11213.639-21E3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, embryo E17.CNhs11025.479-18E5.mm10.ctss.fwd.bw	data/bigwig/heart, embryo E17.CNhs11025.479-18E5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, embryo E16.CNhs11021.457-17C6.mm10.ctss.fwd.bw	data/bigwig/heart, embryo E16.CNhs11021.457-17C6.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, embryo E15.CNhs11017.431-16C8.mm10.ctss.fwd.bw	data/bigwig/heart, embryo E15.CNhs11017.431-16C8.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, embryo E14.CNhs10597.403-26D4.mm10.ctss.fwd.bw	data/bigwig/heart, embryo E14.CNhs10597.403-26D4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, embryo E13.CNhs11013.376-3I9.mm10.ctss.fwd.bw	data/bigwig/heart, embryo E13.CNhs11013.376-3I9.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, embryo E12.CNhs11015.353-12F5.mm10.ctss.fwd.bw	data/bigwig/heart, embryo E12.CNhs11015.353-12F5.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/heart, embryo E18.CNhs11030.1283-20G3.mm10.ctss.fwd.bw	data/bigwig/heart, embryo E18.CNhs11030.1283-20G3.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+data/bigwig/whole body, neonate N10.CNhs10518.761-6B4.mm10.ctss.fwd.bw	data/bigwig/whole body, neonate N10.CNhs10518.761-6B4.mm10.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
