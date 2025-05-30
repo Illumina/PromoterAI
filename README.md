@@ -6,8 +6,6 @@ Precomputed PromoterAI scores for all human promoter single nucleotide variants 
 
 ## Overview
 
-The scripts included in this repository serve as a reference for the PromoterAI training and inference pipeline. Full execution requires additional resources and model weights that are currently not part of this repository.
-
 To begin, download the appropriate reference genome (`.fa`) and regulatory profile (`.bigWig`) tracks. Organize the `.bigWig` file paths and their corresponding transformations into a `.tsv` file, where each row represents a prediction target, with the following columns:  
 - `fwd`: path to the forward-strand `.bigWig` file  
 - `rev`: path to the reverse-strand `.bigWig` file  
