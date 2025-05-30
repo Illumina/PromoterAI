@@ -4,7 +4,7 @@ This repository contains the source code for PromoterAI, a deep learning model f
 
 Precomputed PromoterAI scores for all human promoter single nucleotide variants are freely available for academic and non-commercial research use upon acceptance of the [academic license agreement](https://illumina2.na1.adobesign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAuRnD5FtTNwyNo-5X6njTJqQOOMu3V_0nU0MjxSi_9PLCrquWaKSRrT3e1RhHkr7w*). Scores range from –1 to 1, with negative values indicating under-expression and positive values indicating over-expression.
 
-## Overview
+## Training and inference pipeline
 
 To begin, download the appropriate reference genome (`.fa`) and regulatory profile (`.bigWig`) tracks. Organize the `.bigWig` file paths and their corresponding transformations into a `.tsv` file, where each row represents a prediction target, with the following columns:  
 - `fwd`: path to the forward-strand `.bigWig` file  
