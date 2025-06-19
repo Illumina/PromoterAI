@@ -58,9 +58,19 @@ def twin_wrap(model):
         layer.trainable = 'output0' in layer.name
     input_ref = tk.Input(shape=model.input_shape[1:])
     input_alt = tk.Input(shape=model.input_shape[1:])
-    output_ref = model(input_ref)[0]
-    output_alt = model(input_alt)[0]
+    output_ref = _get_human_output(model(input_ref))
+    output_alt = _get_human_output(model(input_alt))
 
     output_ = tkl.Subtract()([output_alt, output_ref])
     output_ = tkl.Lambda(lambda x: tk.backend.mean(x, axis=(1, 2)))(output_)
     return tk.Model(inputs=(input_ref, input_alt), outputs=output_)
+
+
+# support for legacy models
+def _get_human_output(outputs):
+    if isinstance(outputs, tuple) or isinstance(outputs, list):
+        return outputs[0]
+    elif isinstance(outputs, dict):
+        return outputs['human']
+    else:
+        return outputs

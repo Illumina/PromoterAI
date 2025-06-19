@@ -58,7 +58,7 @@ class SequenceDataGenerator(tk.utils.Sequence):
             ].seq.upper()
             if len(seq) < self._input_length:
                 continue
-            if strand == 1:
+            if (strand == 1) or (strand == '+'):
                 xs[i] = _onehot_encode(seq)
                 for j in range(self._num_bws):
                     ys[i, :, j] = self._bw_xforms[j](self._bws_fwd[j].values(
@@ -66,7 +66,7 @@ class SequenceDataGenerator(tk.utils.Sequence):
                         pos - self._output_length // 2,
                         pos + self._output_length // 2
                     ))
-            elif strand == -1:
+            elif (strand == -1) or (strand == '-'):
                 xs[i] = _onehot_encode(seq)[::-1, ::-1]
                 for j in range(self._num_bws):
                     ys[i, :, j] = self._bw_xforms[j](self._bws_rev[j].values(
@@ -116,19 +116,25 @@ class VariantDataGenerator(tk.utils.Sequence):
             alt = self._df_var.iloc[idx_smpl]['alt']
             strand = self._df_var.iloc[idx_smpl]['strand']
 
+            idx_ref = self._input_length // 2
             seq_ref = self._fasta[chrom][
                 pos - self._input_length // 2:pos + self._input_length // 2
             ].seq.upper()
             if len(seq_ref) < self._input_length:
+                print(f'skipping {chrom}:{pos} {ref}>{alt}, pos issue')
                 continue
-            assert seq_ref[self._input_length // 2] == ref
-            seq_alt = list(seq_ref)
-            seq_alt[self._input_length // 2] = alt
-            seq_alt = ''.join(seq_alt)
+            if not ref == seq_ref[idx_ref:idx_ref + len(ref)]:
+                print(f'skipping {chrom}:{pos} {ref}>{alt}, ref issue')
+                continue
+            if not set(alt).issubset({'A', 'C', 'G', 'T'}):
+                print(f'skipping {chrom}:{pos} {ref}>{alt}, alt issue')
+                continue
+            seq_alt = seq_ref[:idx_ref] + alt + seq_ref[idx_ref + len(ref):]
+            seq_alt = seq_alt.ljust(len(seq_ref), 'N')[:len(seq_ref)]
 
             xs_ref[i] = _onehot_encode(seq_ref)
             xs_alt[i] = _onehot_encode(seq_alt)
-            if strand == -1:
+            if (strand == -1) or (strand == '-'):
                 xs_ref[i] = xs_ref[i][::-1, ::-1]
                 xs_alt[i] = xs_alt[i][::-1, ::-1]
             if self._output:
