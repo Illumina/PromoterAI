@@ -14,7 +14,7 @@ For model training or to work directly with the source code, install PromoterAI 
 ```bash
 git clone https://github.com/Illumina/PromoterAI
 cd PromoterAI
-python setup.py install
+pip install .
 ```
 PromoterAI supports both CPU and GPU execution, and has been tested on H100 (TensorFlow 2.15, CUDA 12.2, cuDNN 8.9.7) and A100 (TensorFlow 2.13, CUDA 11.4, cuDNN 8.6.0) GPUs. A quick check to confirm proper setup (especially when using a different GPU or environment) is to run:
 ```bash
@@ -25,11 +25,13 @@ python -c "import tensorflow"
 
 To score variants, organize them into a `.tsv` file with the following columns: `chrom`, `pos`, `ref`, `alt`, `strand`. If strand cannot be specified, create separate rows for each strand and aggregate predictions. Indels must be left-normalized.
 ```tsv
-chrom   pos     ref     alt     strand
-chr16   84145214        G       T       1
-chr16   84145333        G       C       1
-chr2    55232249        T       G       -1
-chr2    55232374        C       T       -1
+chrom	pos	ref	alt	strand
+chr16	84145214	G	T	1
+chr16	84145333	G	C	1
+chr2	55232249	T	G	-1
+chr2	55232374	C	T	-1
+chr1	64918	T	TGG	1
+chr1	64918	TAA	T	1
 ```
 Download the appropriate reference genome `.fa` file, and run the following command:
 ```bash
