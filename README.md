@@ -16,11 +16,11 @@ git clone https://github.com/Illumina/PromoterAI
 cd PromoterAI
 pip install .
 ```
-PromoterAI supports both CPU and GPU execution, and has been tested on H100 (TensorFlow 2.15, CUDA 12.2, cuDNN 8.9.7) and A100 (TensorFlow 2.13, CUDA 11.4, cuDNN 8.6.0) GPUs.
+PromoterAI supports both CPU and GPU execution, and has been tested on H100 (TensorFlow 2.15, CUDA 12.2, cuDNN 8.9.7) and A100 (TensorFlow 2.13, CUDA 11.4, cuDNN 8.6.0) GPUs. Functionality on other GPUs is expected but not officially tested.
 
 ## Variant scoring
 
-To score variants, organize them into a `.tsv` file with the following columns: `chrom`, `pos`, `ref`, `alt`, `strand`. If strand cannot be specified, create separate rows for each strand and aggregate predictions. Indels must be left-normalized.
+To score variants, organize them into a `.tsv` file with the following columns: `chrom`, `pos`, `ref`, `alt`, `strand`. If strand cannot be specified, create separate rows for each strand and aggregate predictions. Indels must be left-normalized and without special characters.
 ```tsv
 chrom	pos	ref	alt	strand
 chr16	84145214	G	T	1
@@ -61,7 +61,7 @@ chr1	12009	1
 chr1	29569	-1
 chr1	17435	-1
 ```
-After preparing these files, run `preprocess.sh` with the paths to the genome `.fa` file, the profile and position `.tsv` files, and an output folder for writing the generated TFRecord files. For multi-species training, run the preprocessing step separately for each species. Next, run `train.sh`, specifying the TFRecord folder(s) and an output folder for saving the trained model. After training, run `finetune.sh` using the trained model as input. The fine-tuned model will be saved in a new folder with `_finetune` appended to the original model folder name.
+After preparing these files, set `promoterai/` as the working directory and run `preprocess.sh` with the paths to the genome `.fa` file, the profile and position `.tsv` files, and an output folder for writing the generated TFRecord files. For multi-species training, run the preprocessing step separately for each species. Next, run `train.sh`, specifying the TFRecord folder(s) and an output folder for saving the trained model. After training, run `finetune.sh` using the trained model as input. The fine-tuned model will be saved in a new folder with `_finetune` appended to the original model folder name.
 
 ## Contact
 
