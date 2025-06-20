@@ -4,7 +4,7 @@ import io
 setup(
     name='promoterai',
     packages=['promoterai'],
-    version='1.0rc2',
+    version='1.0rc3',
     description='Predict the impact of promoter variants on gene expression',
     long_description=io.open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',

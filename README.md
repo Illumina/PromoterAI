@@ -16,10 +16,7 @@ git clone https://github.com/Illumina/PromoterAI
 cd PromoterAI
 pip install .
 ```
-PromoterAI supports both CPU and GPU execution, and has been tested on H100 (TensorFlow 2.15, CUDA 12.2, cuDNN 8.9.7) and A100 (TensorFlow 2.13, CUDA 11.4, cuDNN 8.6.0) GPUs. A quick check to confirm proper setup (especially when using a different GPU or environment) is to run:
-```bash
-python -c "import tensorflow"
-```
+PromoterAI supports both CPU and GPU execution, and has been tested on H100 (TensorFlow 2.15, CUDA 12.2, cuDNN 8.9.7) and A100 (TensorFlow 2.13, CUDA 11.4, cuDNN 8.6.0) GPUs.
 
 ## Variant scoring
 
