@@ -1,0 +1,499 @@
+fwd	rev	xform	assay	target
+ENCFF245ZZX.bigWig	ENCFF245ZZX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9me3-human
+ENCFF279QDX.bigWig	ENCFF279QDX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H4K91ac-human
+ENCFF480GFU.bigWig	ENCFF480GFU.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H2BK12ac-human
+ENCFF815ONV.bigWig	ENCFF815ONV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4ac-human
+ENCFF972LLR.bigWig	ENCFF972LLR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K23me2-human
+ENCFF241ORN.bigWig	ENCFF241ORN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H2BK15ac-human
+ENCFF012ZMD.bigWig	ENCFF012ZMD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3T11ph-human
+ENCFF033HCX.bigWig	ENCFF033HCX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H2BK20ac-human
+ENCFF781NUI.bigWig	ENCFF781NUI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H2BK15ac-human
+ENCFF648UJX.bigWig	ENCFF648UJX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H4K5ac-human
+ENCFF382MFP.bigWig	ENCFF382MFP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H4K5ac-human
+ENCFF979BTG.bigWig	ENCFF979BTG.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H4K8ac-human
+ENCFF976XPV.bigWig	ENCFF976XPV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K79me2-human
+ENCFF712WRV.bigWig	ENCFF712WRV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K23me2-human
+ENCFF028DRR.bigWig	ENCFF028DRR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me2-human
+ENCFF846SNQ.bigWig	ENCFF846SNQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K18ac-human
+ENCFF242WQK.bigWig	ENCFF242WQK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H2AFZ-human
+ENCFF440ALL.bigWig	ENCFF440ALL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H4K20me1-human
+ENCFF047GXT.bigWig	ENCFF047GXT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K79me1-human
+ENCFF726VXA.bigWig	ENCFF726VXA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H2AFZ-human
+ENCFF452DDC.bigWig	ENCFF452DDC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K56ac-human
+ENCFF725IGL.bigWig	ENCFF725IGL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H2AK9ac-human
+ENCFF820MMV.bigWig	ENCFF820MMV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3F3A-human
+ENCFF455IYV.bigWig	ENCFF455IYV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K79me1-human
+ENCFF342BGA.bigWig	ENCFF342BGA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K56ac-human
+ENCFF869TEW.bigWig	ENCFF869TEW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3F3A-human
+ENCFF816ZUZ.bigWig	ENCFF816ZUZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H2AK5ac-human
+ENCFF155HTT.bigWig	ENCFF155HTT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H2AK5ac-human
+ENCFF165LXP.bigWig	ENCFF165LXP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9me2-human
+ENCFF654SLZ.bigWig	ENCFF654SLZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9me1-human
+ENCFF282ZZI.bigWig	ENCFF282ZZI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H2BK12ac-human
+ENCFF855VIW.bigWig	ENCFF855VIW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K14ac-human
+ENCFF562TJP.bigWig	ENCFF562TJP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H4K8ac-human
+ENCFF247FAZ.bigWig	ENCFF247FAZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K36me3-human
+ENCFF416ZBM.bigWig	ENCFF416ZBM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me1-human
+ENCFF733LYD.bigWig	ENCFF733LYD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K18ac-human
+ENCFF788AFO.bigWig	ENCFF788AFO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27me3-human
+ENCFF926SMH.bigWig	ENCFF926SMH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27ac-human
+ENCFF299GSL.bigWig	ENCFF299GSL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me3-human
+ENCFF487FRR.bigWig	ENCFF487FRR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K23ac-human
+ENCFF095WSY.bigWig	ENCFF095WSY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9me2-human
+ENCFF636NGJ.bigWig	ENCFF636NGJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9ac-human
+ENCFF529FOG.bigWig	ENCFF529FOG.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27me3-human
+ENCFF900CQR.bigWig	ENCFF900CQR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me2-human
+ENCFF612PTC.bigWig	ENCFF612PTC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H4K20me1-human
+ENCFF221EOW.bigWig	ENCFF221EOW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K36me3-human
+ENCFF447JDG.bigWig	ENCFF447JDG.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K79me2-human
+ENCFF617MAB.bigWig	ENCFF617MAB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me1-human
+ENCFF219ZRA.bigWig	ENCFF219ZRA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K4me3-human
+ENCFF529BXA.bigWig	ENCFF529BXA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K27ac-human
+ENCFF900DBA.bigWig	ENCFF900DBA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9me3-human
+ENCFF007KYA.bigWig	ENCFF007KYA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H2BK5ac-human
+ENCFF440NAI.bigWig	ENCFF440NAI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	Histone ChIP-seq	H3K9ac-human
+ENCFF613BDA.bigWig	ENCFF613BDA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF555JIC.bigWig	ENCFF555JIC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF712UVC.bigWig	ENCFF712UVC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF589CRI.bigWig	ENCFF589CRI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF493HHP.bigWig	ENCFF493HHP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF807ZJE.bigWig	ENCFF807ZJE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF660OZI.bigWig	ENCFF660OZI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF969WDE.bigWig	ENCFF969WDE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF161HKZ.bigWig	ENCFF161HKZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF500AGZ.bigWig	ENCFF500AGZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF301LKA.bigWig	ENCFF301LKA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF082KAC.bigWig	ENCFF082KAC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF635IQN.bigWig	ENCFF635IQN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF091JLU.bigWig	ENCFF091JLU.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF644JWK.bigWig	ENCFF644JWK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF609VNS.bigWig	ENCFF609VNS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF291LQB.bigWig	ENCFF291LQB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF623TJB.bigWig	ENCFF623TJB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF694ESB.bigWig	ENCFF694ESB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF368JGS.bigWig	ENCFF368JGS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF241BCT.bigWig	ENCFF241BCT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF599UKS.bigWig	ENCFF599UKS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF394WTE.bigWig	ENCFF394WTE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF971KWT.bigWig	ENCFF971KWT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF298FXY.bigWig	ENCFF298FXY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF690TSD.bigWig	ENCFF690TSD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF755FPE.bigWig	ENCFF755FPE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF299OOV.bigWig	ENCFF299OOV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF847FPR.bigWig	ENCFF847FPR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF518SGA.bigWig	ENCFF518SGA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF528JMP.bigWig	ENCFF528JMP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF254NBU.bigWig	ENCFF254NBU.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF990HTO.bigWig	ENCFF990HTO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF876OBV.bigWig	ENCFF876OBV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF408XXY.bigWig	ENCFF408XXY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF513HRB.bigWig	ENCFF513HRB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF179SLC.bigWig	ENCFF179SLC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF052CPA.bigWig	ENCFF052CPA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF634HGK.bigWig	ENCFF634HGK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF656WBC.bigWig	ENCFF656WBC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF412TKS.bigWig	ENCFF412TKS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF147AZB.bigWig	ENCFF147AZB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF304BKH.bigWig	ENCFF304BKH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF586KKK.bigWig	ENCFF586KKK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF783EDL.bigWig	ENCFF783EDL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF217MSL.bigWig	ENCFF217MSL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF883DDK.bigWig	ENCFF883DDK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF155KPP.bigWig	ENCFF155KPP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF110PNG.bigWig	ENCFF110PNG.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF291LZE.bigWig	ENCFF291LZE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF207ZFW.bigWig	ENCFF207ZFW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF879GMI.bigWig	ENCFF879GMI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF954QGZ.bigWig	ENCFF954QGZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF597SDR.bigWig	ENCFF597SDR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF421SBY.bigWig	ENCFF421SBY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF891ETR.bigWig	ENCFF891ETR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF739NWF.bigWig	ENCFF739NWF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF909PMD.bigWig	ENCFF909PMD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF192IUF.bigWig	ENCFF192IUF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF721VIJ.bigWig	ENCFF721VIJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF211HIT.bigWig	ENCFF211HIT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF013UBZ.bigWig	ENCFF013UBZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF750LPX.bigWig	ENCFF750LPX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF445GCD.bigWig	ENCFF445GCD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF761ZGJ.bigWig	ENCFF761ZGJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF213UEB.bigWig	ENCFF213UEB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF221CLN.bigWig	ENCFF221CLN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF146ZBO.bigWig	ENCFF146ZBO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF804POQ.bigWig	ENCFF804POQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF695QYJ.bigWig	ENCFF695QYJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF969JHD.bigWig	ENCFF969JHD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF825TKA.bigWig	ENCFF825TKA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF125HZY.bigWig	ENCFF125HZY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF755EZI.bigWig	ENCFF755EZI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF452PQB.bigWig	ENCFF452PQB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF812JCQ.bigWig	ENCFF812JCQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF097WPE.bigWig	ENCFF097WPE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF978IHV.bigWig	ENCFF978IHV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF407UXA.bigWig	ENCFF407UXA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF831NQC.bigWig	ENCFF831NQC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF162GDL.bigWig	ENCFF162GDL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF623ZIV.bigWig	ENCFF623ZIV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF935VSX.bigWig	ENCFF935VSX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF291DQP.bigWig	ENCFF291DQP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF351WIJ.bigWig	ENCFF351WIJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF279ZNA.bigWig	ENCFF279ZNA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF110QOO.bigWig	ENCFF110QOO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF466DQD.bigWig	ENCFF466DQD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF485CJZ.bigWig	ENCFF485CJZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	DNase-seq	
+ENCFF095DJH.bigWig	ENCFF095DJH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	ATAC-seq	
+ENCFF622SLI.bigWig	ENCFF622SLI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	ATAC-seq	
+ENCFF163JWV.bigWig	ENCFF163JWV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	ATAC-seq	
+ENCFF703MFP.bigWig	ENCFF703MFP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	ATAC-seq	
+ENCFF469CYE.bigWig	ENCFF469CYE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	ATAC-seq	
+ENCFF799MDF.bigWig	ENCFF799MDF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	ATAC-seq	
+ENCFF974RPS.bigWig	ENCFF974RPS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	ATAC-seq	
+ENCFF654LFX.bigWig	ENCFF654LFX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	BCL3-human
+ENCFF138SBD.bigWig	ENCFF138SBD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NCOA3-human
+ENCFF242NVV.bigWig	ENCFF242NVV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	HES2-human
+ENCFF315GNM.bigWig	ENCFF315GNM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CBFA2T3-human
+ENCFF987XPG.bigWig	ENCFF987XPG.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MTA2-human
+ENCFF668FBH.bigWig	ENCFF668FBH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	DPF2-human
+ENCFF513PBT.bigWig	ENCFF513PBT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZEB2-human
+ENCFF681ZHD.bigWig	ENCFF681ZHD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NBN-human
+ENCFF678HIJ.bigWig	ENCFF678HIJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	PKNOX1-human
+ENCFF004IRD.bigWig	ENCFF004IRD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CREB1-human
+ENCFF966JQM.bigWig	ENCFF966JQM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	IKZF1-human
+ENCFF161ZKM.bigWig	ENCFF161ZKM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	RNF2-human
+ENCFF196HHX.bigWig	ENCFF196HHX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	YBX3-human
+ENCFF039ZTR.bigWig	ENCFF039ZTR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TBP-human
+ENCFF292DOP.bigWig	ENCFF292DOP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TARDBP-human
+ENCFF958IQM.bigWig	ENCFF958IQM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TRIM22-human
+ENCFF202ZUH.bigWig	ENCFF202ZUH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	GATAD2A-human
+ENCFF009HVB.bigWig	ENCFF009HVB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ARNT-human
+ENCFF770ESH.bigWig	ENCFF770ESH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CTCF-human
+ENCFF187VTQ.bigWig	ENCFF187VTQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	LARP7-human
+ENCFF899YOZ.bigWig	ENCFF899YOZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NCOA3-human
+ENCFF262TBR.bigWig	ENCFF262TBR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZBTB1-human
+ENCFF321WUZ.bigWig	ENCFF321WUZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	SP1-human
+ENCFF232VBN.bigWig	ENCFF232VBN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	BMI1-human
+ENCFF870IJI.bigWig	ENCFF870IJI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZNF384-human
+ENCFF360GIE.bigWig	ENCFF360GIE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	FOXK2-human
+ENCFF298LGE.bigWig	ENCFF298LGE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	PLRG1-human
+ENCFF447IUT.bigWig	ENCFF447IUT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2A-human
+ENCFF007TLQ.bigWig	ENCFF007TLQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TRIM24-human
+ENCFF393RHF.bigWig	ENCFF393RHF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CDC5L-human
+ENCFF604JCQ.bigWig	ENCFF604JCQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZNF184-human
+ENCFF041DZQ.bigWig	ENCFF041DZQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	HES1-human
+ENCFF147ROP.bigWig	ENCFF147ROP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TRIM24-human
+ENCFF002YBY.bigWig	ENCFF002YBY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NONO-human
+ENCFF796MUQ.bigWig	ENCFF796MUQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	SUZ12-human
+ENCFF287JDQ.bigWig	ENCFF287JDQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	BRD4-human
+ENCFF743DSH.bigWig	ENCFF743DSH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MNT-human
+ENCFF465WMX.bigWig	ENCFF465WMX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	IKZF1-human
+ENCFF137JXW.bigWig	ENCFF137JXW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZSCAN29-human
+ENCFF209BDD.bigWig	ENCFF209BDD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	FOXA1-human
+ENCFF036HJP.bigWig	ENCFF036HJP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZNF316-human
+ENCFF205YLH.bigWig	ENCFF205YLH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MCM3-human
+ENCFF176NXE.bigWig	ENCFF176NXE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NRF1-human
+ENCFF410VJS.bigWig	ENCFF410VJS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFIB-human
+ENCFF070ESI.bigWig	ENCFF070ESI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZFX-human
+ENCFF148GAF.bigWig	ENCFF148GAF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2G-human
+ENCFF891BOI.bigWig	ENCFF891BOI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2B-human
+ENCFF360WKZ.bigWig	ENCFF360WKZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	PKNOX1-human
+ENCFF261ZTD.bigWig	ENCFF261ZTD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFYC-human
+ENCFF972FKV.bigWig	ENCFF972FKV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZFX-human
+ENCFF081CPV.bigWig	ENCFF081CPV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CBX8-human
+ENCFF503NLE.bigWig	ENCFF503NLE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFYA-human
+ENCFF245YQE.bigWig	ENCFF245YQE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NR3C1-human
+ENCFF283CYA.bigWig	ENCFF283CYA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	YY1-human
+ENCFF325VGS.bigWig	ENCFF325VGS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS2-human
+ENCFF197JVC.bigWig	ENCFF197JVC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS2-human
+ENCFF795SKH.bigWig	ENCFF795SKH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	GTF2F1-human
+ENCFF080OUC.bigWig	ENCFF080OUC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TBP-human
+ENCFF305TSP.bigWig	ENCFF305TSP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	PBX3-human
+ENCFF821LAQ.bigWig	ENCFF821LAQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFYB-human
+ENCFF953KTQ.bigWig	ENCFF953KTQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR3A-human
+ENCFF268TAM.bigWig	ENCFF268TAM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	YY1-human
+ENCFF349OXT.bigWig	ENCFF349OXT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	YY1-human
+ENCFF206GNI.bigWig	ENCFF206GNI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS2-human
+ENCFF770BYS.bigWig	ENCFF770BYS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	EZH2-human
+ENCFF334MYX.bigWig	ENCFF334MYX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR3A-human
+ENCFF264KEY.bigWig	ENCFF264KEY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	USF1-human
+ENCFF779TIO.bigWig	ENCFF779TIO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TBP-human
+ENCFF296TQX.bigWig	ENCFF296TQX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	EZH2-human
+ENCFF513QPQ.bigWig	ENCFF513QPQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CEBPB-human
+ENCFF040JWA.bigWig	ENCFF040JWA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	PBX3-human
+ENCFF332SUM.bigWig	ENCFF332SUM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	JUND-human
+ENCFF972JQS.bigWig	ENCFF972JQS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TBP-human
+ENCFF138KBZ.bigWig	ENCFF138KBZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS2-human
+ENCFF800RDB.bigWig	ENCFF800RDB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TBP-human
+ENCFF142BMH.bigWig	ENCFF142BMH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR3G-human
+ENCFF612MAK.bigWig	ENCFF612MAK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MAX-human
+ENCFF568TNM.bigWig	ENCFF568TNM.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	YY1-human
+ENCFF279RAQ.bigWig	ENCFF279RAQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	JUN-human
+ENCFF873HRN.bigWig	ENCFF873HRN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2G-human
+ENCFF301SJI.bigWig	ENCFF301SJI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFYA-human
+ENCFF176ZRZ.bigWig	ENCFF176ZRZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MLLT1-human
+ENCFF887XLH.bigWig	ENCFF887XLH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MLLT1-human
+ENCFF862DSS.bigWig	ENCFF862DSS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	DPF2-human
+ENCFF601WUN.bigWig	ENCFF601WUN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	FOXA2-human
+ENCFF386IBF.bigWig	ENCFF386IBF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	EZH2-human
+ENCFF983PKW.bigWig	ENCFF983PKW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	BCOR-human
+ENCFF120YPF.bigWig	ENCFF120YPF.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	PAF1-human
+ENCFF506JJS.bigWig	ENCFF506JJS.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	GATAD2B-human
+ENCFF705JMQ.bigWig	ENCFF705JMQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZC3H8-human
+ENCFF284YVH.bigWig	ENCFF284YVH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS5-human
+ENCFF187MXO.bigWig	ENCFF187MXO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	SUPT5H-human
+ENCFF645KDK.bigWig	ENCFF645KDK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS5-human
+ENCFF424MAD.bigWig	ENCFF424MAD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS5-human
+ENCFF043XYC.bigWig	ENCFF043XYC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ARNT-human
+ENCFF123HTK.bigWig	ENCFF123HTK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS5-human
+ENCFF869MDH.bigWig	ENCFF869MDH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS5-human
+ENCFF573PLD.bigWig	ENCFF573PLD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	EZH2-human
+ENCFF951EWG.bigWig	ENCFF951EWG.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	HDAC1-human
+ENCFF650KAK.bigWig	ENCFF650KAK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	BRD4-human
+ENCFF049BEY.bigWig	ENCFF049BEY.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	YY1-human
+ENCFF709NUK.bigWig	ENCFF709NUK.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	GATAD2B-human
+ENCFF957DGE.bigWig	ENCFF957DGE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFIB-human
+ENCFF860AWC.bigWig	ENCFF860AWC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFYB-human
+ENCFF383RHC.bigWig	ENCFF383RHC.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFYB-human
+ENCFF990UIT.bigWig	ENCFF990UIT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFYA-human
+ENCFF883LFR.bigWig	ENCFF883LFR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFXL1-human
+ENCFF894ZEQ.bigWig	ENCFF894ZEQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NELFE-human
+ENCFF814GXV.bigWig	ENCFF814GXV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	LARP7-human
+ENCFF130JBO.bigWig	ENCFF130JBO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	SP1-human
+ENCFF234IPR.bigWig	ENCFF234IPR.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MCM7-human
+ENCFF282UWB.bigWig	ENCFF282UWB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MCM7-human
+ENCFF063EQV.bigWig	ENCFF063EQV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	HLTF-human
+ENCFF528VEZ.bigWig	ENCFF528VEZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZNF687-human
+ENCFF006RXD.bigWig	ENCFF006RXD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CSDE1-human
+ENCFF344OGV.bigWig	ENCFF344OGV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MTA3-human
+ENCFF329CQD.bigWig	ENCFF329CQD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	EP300-human
+ENCFF261ZPL.bigWig	ENCFF261ZPL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MTA2-human
+ENCFF224XXV.bigWig	ENCFF224XXV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	SMARCA5-human
+ENCFF820XCD.bigWig	ENCFF820XCD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	BRD4-human
+ENCFF892SEP.bigWig	ENCFF892SEP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ARID3A-human
+ENCFF977JUB.bigWig	ENCFF977JUB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	HDGF-human
+ENCFF251NMP.bigWig	ENCFF251NMP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	RBBP5-human
+ENCFF597EMO.bigWig	ENCFF597EMO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	SMARCA4-human
+ENCFF035AWQ.bigWig	ENCFF035AWQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZBTB7B-human
+ENCFF755KTP.bigWig	ENCFF755KTP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZBTB40-human
+ENCFF885BUD.bigWig	ENCFF885BUD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CTBP1-human
+ENCFF588ZJN.bigWig	ENCFF588ZJN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NONO-human
+ENCFF553WKG.bigWig	ENCFF553WKG.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	SIN3A-human
+ENCFF461ZOL.bigWig	ENCFF461ZOL.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	FOS-human
+ENCFF125SXJ.bigWig	ENCFF125SXJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2AphosphoS2-human
+ENCFF912CMO.bigWig	ENCFF912CMO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	HMBOX1-human
+ENCFF028ISH.bigWig	ENCFF028ISH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TRIM28-human
+ENCFF258SHD.bigWig	ENCFF258SHD.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	POLR2H-human
+ENCFF786QYI.bigWig	ENCFF786QYI.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TARDBP-human
+ENCFF898ZYH.bigWig	ENCFF898ZYH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	HDAC2-human
+ENCFF112UJP.bigWig	ENCFF112UJP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	EGR1-human
+ENCFF103TCU.bigWig	ENCFF103TCU.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	EZH2-human
+ENCFF136QQX.bigWig	ENCFF136QQX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TCF12-human
+ENCFF237KJP.bigWig	ENCFF237KJP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CEBPB-human
+ENCFF300BHU.bigWig	ENCFF300BHU.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFYB-human
+ENCFF124TBW.bigWig	ENCFF124TBW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	TEAD4-human
+ENCFF609RIW.bigWig	ENCFF609RIW.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFYA-human
+ENCFF964PYE.bigWig	ENCFF964PYE.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CTCFL-human
+ENCFF191KXX.bigWig	ENCFF191KXX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFYB-human
+ENCFF676YMP.bigWig	ENCFF676YMP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ZBED1-human
+ENCFF745GYJ.bigWig	ENCFF745GYJ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFYA-human
+ENCFF980PLO.bigWig	ENCFF980PLO.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MNT-human
+ENCFF621CBT.bigWig	ENCFF621CBT.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	RAD21-human
+ENCFF551HFX.bigWig	ENCFF551HFX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	FOSL2-human
+ENCFF770OLH.bigWig	ENCFF770OLH.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	GATA3-human
+ENCFF227CXN.bigWig	ENCFF227CXN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NFIC-human
+ENCFF022CWB.bigWig	ENCFF022CWB.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	MAX-human
+ENCFF404LIN.bigWig	ENCFF404LIN.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	NBN-human
+ENCFF444LPZ.bigWig	ENCFF444LPZ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	FOXK2-human
+ENCFF036BKG.bigWig	ENCFF036BKG.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ELF1-human
+ENCFF627QVA.bigWig	ENCFF627QVA.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	CREB1-human
+ENCFF971ZVP.bigWig	ENCFF971ZVP.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	JUND-human
+ENCFF283VCQ.bigWig	ENCFF283VCQ.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	ATF3-human
+ENCFF667DZU.bigWig	ENCFF667DZU.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	HDGF-human
+ENCFF777VQX.bigWig	ENCFF777VQX.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))	TF ChIP-seq	HDAC2-human
+pineal gland, adult, donor10258.CNhs14230.10377-105G8.hg38.ctss.fwd.bw	pineal gland, adult, donor10258.CNhs14230.10377-105G8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+prostate, adult, pool1.CNhs10628.10022-101D4.hg38.ctss.fwd.bw	prostate, adult, pool1.CNhs10628.10022-101D4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+pineal gland, adult, donor10252.CNhs12228.10160-103A7.hg38.ctss.fwd.bw	pineal gland, adult, donor10252.CNhs12228.10160-103A7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+pituitary gland - adult, donor10196.CNhs13805.10180-103C9.hg38.ctss.fwd.bw	pituitary gland - adult, donor10196.CNhs13805.10180-103C9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+pituitary gland, adult, donor10252.CNhs12229.10162-103A9.hg38.ctss.fwd.bw	pituitary gland, adult, donor10252.CNhs12229.10162-103A9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+pituitary gland, adult, donor10258.CNhs14231.10378-105G9.hg38.ctss.fwd.bw	pituitary gland, adult, donor10258.CNhs14231.10378-105G9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+placenta, adult, pool1.CNhs10627.10021-101D3.hg38.ctss.fwd.bw	placenta, adult, pool1.CNhs10627.10021-101D3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+pons, adult, pool1.CNhs10640.10033-101E6.hg38.ctss.fwd.bw	pons, adult, pool1.CNhs10640.10033-101E6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+postcentral gyrus, adult, pool1.CNhs10638.10032-101E5.hg38.ctss.fwd.bw	postcentral gyrus, adult, pool1.CNhs10638.10032-101E5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+salivary gland, adult, pool1.CNhs11677.10093-102C3.hg38.ctss.fwd.bw	salivary gland, adult, pool1.CNhs11677.10093-102C3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+putamen, adult, donor10252.CNhs13912.10152-102I8.hg38.ctss.fwd.bw	putamen, adult, donor10252.CNhs13912.10152-102I8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+putamen, adult, donor10258, tech_rep1.CNhs14225.10372-105G3.hg38.ctss.fwd.bw	putamen, adult, donor10258, tech_rep1.CNhs14225.10372-105G3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+putamen, adult, donor10258, tech_rep2.CNhs14618.10372-105G3.hg38.ctss.fwd.bw	putamen, adult, donor10258, tech_rep2.CNhs14618.10372-105G3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+putamen, newborn, donor10223.CNhs14083.10365-105F5.hg38.ctss.fwd.bw	putamen, newborn, donor10223.CNhs14083.10365-105F5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+rectum, fetal, donor1.CNhs11777.10067-101I4.hg38.ctss.fwd.bw	rectum, fetal, donor1.CNhs11777.10067-101I4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+retina, adult, pool1.CNhs10636.10030-101E3.hg38.ctss.fwd.bw	retina, adult, pool1.CNhs10636.10030-101E3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+SABiosciences XpressRef Human Universal Total RNA, pool1.CNhs10610.10002-101A5.hg38.ctss.fwd.bw	SABiosciences XpressRef Human Universal Total RNA, pool1.CNhs10610.10002-101A5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+seminal vesicle, adult.CNhs12851.10201-103F3.hg38.ctss.fwd.bw	seminal vesicle, adult.CNhs12851.10201-103F3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+skeletal muscle, adult, pool1.CNhs10629.10023-101D5.hg38.ctss.fwd.bw	skeletal muscle, adult, pool1.CNhs10629.10023-101D5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+putamen, adult, donor10196.CNhs12324.10176-103C5.hg38.ctss.fwd.bw	putamen, adult, donor10196.CNhs12324.10176-103C5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+pineal gland - adult, donor10196.CNhs13804.10179-103C8.hg38.ctss.fwd.bw	pineal gland - adult, donor10196.CNhs13804.10179-103C8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+ovary, adult, pool1.CNhs10626.10020-101D2.hg38.ctss.fwd.bw	ovary, adult, pool1.CNhs10626.10020-101D2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+parotid gland, adult.CNhs12849.10199-103F1.hg38.ctss.fwd.bw	parotid gland, adult.CNhs12849.10199-103F1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medulla oblongata, newborn, donor10223.CNhs14079.10361-105F1.hg38.ctss.fwd.bw	medulla oblongata, newborn, donor10223.CNhs14079.10361-105F1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+skeletal muscle, fetal, donor1.CNhs11776.10066-101I3.hg38.ctss.fwd.bw	skeletal muscle, fetal, donor1.CNhs11776.10066-101I3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medulla oblongata, adult, pool1.CNhs10645.10038-101F2.hg38.ctss.fwd.bw	medulla oblongata, adult, pool1.CNhs10645.10038-101F2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+nucleus accumbens, adult, pool1.CNhs10644.10037-101F1.hg38.ctss.fwd.bw	nucleus accumbens, adult, pool1.CNhs10644.10037-101F1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+occipital cortex - adult, donor10196.CNhs13798.10172-103C1.hg38.ctss.fwd.bw	occipital cortex - adult, donor10196.CNhs13798.10172-103C1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+occipital cortex, adult, donor10252.CNhs12320.10163-103B1.hg38.ctss.fwd.bw	occipital cortex, adult, donor10252.CNhs12320.10163-103B1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+occipital cortex, newborn, donor10223.CNhs14073.10355-105E4.hg38.ctss.fwd.bw	occipital cortex, newborn, donor10223.CNhs14073.10355-105E4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+occipital lobe, adult, donor1.CNhs11787.10076-102A4.hg38.ctss.fwd.bw	occipital lobe, adult, donor1.CNhs11787.10076-102A4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+occipital lobe, fetal, donor1.CNhs11784.10073-102A1.hg38.ctss.fwd.bw	occipital lobe, fetal, donor1.CNhs11784.10073-102A1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+penis, adult.CNhs12850.10200-103F2.hg38.ctss.fwd.bw	penis, adult.CNhs12850.10200-103F2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+occipital pole, adult, pool1.CNhs10643.10036-101E9.hg38.ctss.fwd.bw	occipital pole, adult, pool1.CNhs10643.10036-101E9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+optic nerve, donor1.CNhs13449.10277-104E7.hg38.ctss.fwd.bw	optic nerve, donor1.CNhs13449.10277-104E7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+pancreas, adult, donor1.CNhs11756.10049-101G4.hg38.ctss.fwd.bw	pancreas, adult, donor1.CNhs11756.10049-101G4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+paracentral gyrus, adult, pool1.CNhs10642.10035-101E8.hg38.ctss.fwd.bw	paracentral gyrus, adult, pool1.CNhs10642.10035-101E8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+parietal cortex, adult, donor10258.CNhs14226.10373-105G4.hg38.ctss.fwd.bw	parietal cortex, adult, donor10258.CNhs14226.10373-105G4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+parietal lobe - adult, donor10196.CNhs13797.10171-103B9.hg38.ctss.fwd.bw	parietal lobe - adult, donor10196.CNhs13797.10171-103B9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+parietal lobe, adult, donor10252.CNhs12317.10157-103A4.hg38.ctss.fwd.bw	parietal lobe, adult, donor10252.CNhs12317.10157-103A4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+parietal lobe, adult, pool1.CNhs10641.10034-101E7.hg38.ctss.fwd.bw	parietal lobe, adult, pool1.CNhs10641.10034-101E7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+parietal lobe, fetal, donor1.CNhs11782.10072-101I9.hg38.ctss.fwd.bw	parietal lobe, fetal, donor1.CNhs11782.10072-101I9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+parietal lobe, newborn, donor10223.CNhs14074.10356-105E5.hg38.ctss.fwd.bw	parietal lobe, newborn, donor10223.CNhs14074.10356-105E5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+olfactory region, adult.CNhs12611.10195-103E6.hg38.ctss.fwd.bw	olfactory region, adult.CNhs12611.10195-103E6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+skeletal muscle - soleus muscle, donor1.CNhs13454.10282-104F3.hg38.ctss.fwd.bw	skeletal muscle - soleus muscle, donor1.CNhs13454.10282-104F3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+thalamus, adult, donor10252.CNhs12314.10154-103A1.hg38.ctss.fwd.bw	thalamus, adult, donor10252.CNhs12314.10154-103A1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+skin, fetal, donor1.CNhs11774.10065-101I2.hg38.ctss.fwd.bw	skin, fetal, donor1.CNhs11774.10065-101I2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+thalamus, adult, donor10258, tech_rep2.CNhs14551.10370-105G1.hg38.ctss.fwd.bw	thalamus, adult, donor10258, tech_rep2.CNhs14551.10370-105G1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+thalamus, newborn, donor10223.CNhs14084.10366-105F6.hg38.ctss.fwd.bw	thalamus, newborn, donor10223.CNhs14084.10366-105F6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+throat, adult.CNhs12858.10209-103G2.hg38.ctss.fwd.bw	throat, adult.CNhs12858.10209-103G2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+throat, fetal, donor1.CNhs11770.10061-101H7.hg38.ctss.fwd.bw	throat, fetal, donor1.CNhs11770.10061-101H7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+thymus, adult, pool1.CNhs10633.10027-101D9.hg38.ctss.fwd.bw	thymus, adult, pool1.CNhs10633.10027-101D9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+thymus, fetal, pool1.CNhs10650.10043-101F7.hg38.ctss.fwd.bw	thymus, fetal, pool1.CNhs10650.10043-101F7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+thyroid, adult, pool1.CNhs10634.10028-101E1.hg38.ctss.fwd.bw	thyroid, adult, pool1.CNhs10634.10028-101E1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+thyroid, fetal, donor1.CNhs11769.10060-101H6.hg38.ctss.fwd.bw	thyroid, fetal, donor1.CNhs11769.10060-101H6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+tongue, adult.CNhs12853.10203-103F5.hg38.ctss.fwd.bw	tongue, adult.CNhs12853.10203-103F5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+thalamus, adult, donor10258, tech_rep1.CNhs14223.10370-105G1.hg38.ctss.fwd.bw	thalamus, adult, donor10258, tech_rep1.CNhs14223.10370-105G1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+tongue epidermis (fungiform papillae), donor1.CNhs13460.10288-104F9.hg38.ctss.fwd.bw	tongue epidermis (fungiform papillae), donor1.CNhs13460.10288-104F9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+tonsil, adult, pool1.CNhs10654.10047-101G2.hg38.ctss.fwd.bw	tonsil, adult, pool1.CNhs10654.10047-101G2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+trachea, adult, pool1.CNhs10635.10029-101E2.hg38.ctss.fwd.bw	trachea, adult, pool1.CNhs10635.10029-101E2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+trachea, fetal, donor1.CNhs11766.10058-101H4.hg38.ctss.fwd.bw	trachea, fetal, donor1.CNhs11766.10058-101H4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+umbilical cord, fetal, donor1.CNhs11765.10057-101H3.hg38.ctss.fwd.bw	umbilical cord, fetal, donor1.CNhs11765.10057-101H3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+Universal RNA - Human Normal Tissues Biochain, pool1.CNhs10612.10007-101B4.hg38.ctss.fwd.bw	Universal RNA - Human Normal Tissues Biochain, pool1.CNhs10612.10007-101B4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+Urethra, donor2.CNhs13464.10319-105A4.hg38.ctss.fwd.bw	Urethra, donor2.CNhs13464.10319-105A4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+uterus, adult, pool1.CNhs11676.10100-102D1.hg38.ctss.fwd.bw	uterus, adult, pool1.CNhs11676.10100-102D1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medulla oblongata, adult, donor10252.CNhs12315.10155-103A2.hg38.ctss.fwd.bw	medulla oblongata, adult, donor10252.CNhs12315.10155-103A2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+uterus, fetal, donor1.CNhs11763.10055-101H1.hg38.ctss.fwd.bw	uterus, fetal, donor1.CNhs11763.10055-101H1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+tongue, fetal, donor1.CNhs11768.10059-101H5.hg38.ctss.fwd.bw	tongue, fetal, donor1.CNhs11768.10059-101H5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+skin, adult, donor1.CNhs11785.10074-102A2.hg38.ctss.fwd.bw	skin, adult, donor1.CNhs11785.10074-102A2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+thalamus - adult, donor10196.CNhs13794.10168-103B6.hg38.ctss.fwd.bw	thalamus - adult, donor10196.CNhs13794.10168-103B6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+testis, adult, pool1.CNhs10632.10026-101D8.hg38.ctss.fwd.bw	testis, adult, pool1.CNhs10632.10026-101D8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+Skin - palm, donor1.CNhs13458.10286-104F7.hg38.ctss.fwd.bw	Skin - palm, donor1.CNhs13458.10286-104F7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+small intestine, adult, pool1.CNhs10630.10024-101D6.hg38.ctss.fwd.bw	small intestine, adult, pool1.CNhs10630.10024-101D6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+small intestine, fetal, donor1.CNhs11773.10064-101I1.hg38.ctss.fwd.bw	small intestine, fetal, donor1.CNhs11773.10064-101I1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+smooth muscle, adult, pool1.CNhs11755.10048-101G3.hg38.ctss.fwd.bw	smooth muscle, adult, pool1.CNhs11755.10048-101G3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+spinal cord - adult, donor10196.CNhs13807.10181-103D1.hg38.ctss.fwd.bw	spinal cord - adult, donor10196.CNhs13807.10181-103D1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+spinal cord, adult, donor10252.CNhs12227.10159-103A6.hg38.ctss.fwd.bw	spinal cord, adult, donor10252.CNhs12227.10159-103A6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+spinal cord, adult, donor10258.CNhs14222.10369-105F9.hg38.ctss.fwd.bw	spinal cord, adult, donor10258.CNhs14222.10369-105F9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+spinal cord, fetal, donor1.CNhs11764.10056-101H2.hg38.ctss.fwd.bw	spinal cord, fetal, donor1.CNhs11764.10056-101H2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+spinal cord, newborn, donor10223.CNhs14077.10359-105E8.hg38.ctss.fwd.bw	spinal cord, newborn, donor10223.CNhs14077.10359-105E8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+testis, adult, pool2.CNhs12998.10096-102C6.hg38.ctss.fwd.bw	testis, adult, pool2.CNhs12998.10096-102C6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+spleen, adult, pool1.CNhs10631.10025-101D7.hg38.ctss.fwd.bw	spleen, adult, pool1.CNhs10631.10025-101D7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+stomach, fetal, donor1.CNhs11771.10062-101H8.hg38.ctss.fwd.bw	stomach, fetal, donor1.CNhs11771.10062-101H8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+submaxillary gland, adult.CNhs12852.10202-103F4.hg38.ctss.fwd.bw	submaxillary gland, adult.CNhs12852.10202-103F4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+substantia nigra - adult, donor10196.CNhs13803.10178-103C7.hg38.ctss.fwd.bw	substantia nigra - adult, donor10196.CNhs13803.10178-103C7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+substantia nigra, adult, donor10252.CNhs12318.10158-103A5.hg38.ctss.fwd.bw	substantia nigra, adult, donor10252.CNhs12318.10158-103A5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+substantia nigra, adult, donor10258.CNhs14224.10371-105G2.hg38.ctss.fwd.bw	substantia nigra, adult, donor10258.CNhs14224.10371-105G2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+substantia nigra, newborn, donor10223.CNhs14076.10358-105E7.hg38.ctss.fwd.bw	substantia nigra, newborn, donor10223.CNhs14076.10358-105E7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+temporal lobe, adult, pool1.CNhs10637.10031-101E4.hg38.ctss.fwd.bw	temporal lobe, adult, pool1.CNhs10637.10031-101E4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+temporal lobe, fetal, donor1, tech_rep1.CNhs11772.10063-101H9.hg38.ctss.fwd.bw	temporal lobe, fetal, donor1, tech_rep1.CNhs11772.10063-101H9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+temporal lobe, fetal, donor1, tech_rep2.CNhs12996.10063-101H9.hg38.ctss.fwd.bw	temporal lobe, fetal, donor1, tech_rep2.CNhs12996.10063-101H9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+spleen, fetal, pool1.CNhs10651.10044-101F8.hg38.ctss.fwd.bw	spleen, fetal, pool1.CNhs10651.10044-101F8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medulla oblongata - adult, donor10196.CNhs13800.10174-103C3.hg38.ctss.fwd.bw	medulla oblongata - adult, donor10196.CNhs13800.10174-103C3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+diencephalon, adult.CNhs12610.10193-103E4.hg38.ctss.fwd.bw	diencephalon, adult.CNhs12610.10193-103E4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medial temporal gyrus, adult, donor10258, tech_rep2.CNhs14552.10376-105G7.hg38.ctss.fwd.bw	medial temporal gyrus, adult, donor10258, tech_rep2.CNhs14552.10376-105G7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+caudate nucleus, newborn, donor10223.CNhs14071.10354-105E3.hg38.ctss.fwd.bw	caudate nucleus, newborn, donor10223.CNhs14071.10354-105E3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+cerebellum - adult, donor10196.CNhs13799.10173-103C2.hg38.ctss.fwd.bw	cerebellum - adult, donor10196.CNhs13799.10173-103C2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+cerebellum, adult, donor10252.CNhs12323.10166-103B4.hg38.ctss.fwd.bw	cerebellum, adult, donor10252.CNhs12323.10166-103B4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+cerebellum, adult, pool1.CNhs11795.10083-102B2.hg38.ctss.fwd.bw	cerebellum, adult, pool1.CNhs11795.10083-102B2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+cerebellum, newborn, donor10223.CNhs14075.10357-105E6.hg38.ctss.fwd.bw	cerebellum, newborn, donor10223.CNhs14075.10357-105E6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+cerebral meninges, adult.CNhs12840.10188-103D8.hg38.ctss.fwd.bw	cerebral meninges, adult.CNhs12840.10188-103D8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+cerebrospinal fluid, donor2.CNhs13437.10294-104G6.hg38.ctss.fwd.bw	cerebrospinal fluid, donor2.CNhs13437.10294-104G6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+cervix, adult, pool1.CNhs10618.10013-101C4.hg38.ctss.fwd.bw	cervix, adult, pool1.CNhs10618.10013-101C4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+Clontech Human Universal Reference Total RNA, pool1.CNhs10608.10000-101A1.hg38.ctss.fwd.bw	Clontech Human Universal Reference Total RNA, pool1.CNhs10608.10000-101A1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+colon, adult, donor1.CNhs11794.10082-102B1.hg38.ctss.fwd.bw	colon, adult, donor1.CNhs11794.10082-102B1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+colon, adult, pool1.CNhs10619.10014-101C5.hg38.ctss.fwd.bw	colon, adult, pool1.CNhs10619.10014-101C5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+colon, fetal, donor1.CNhs11780.10070-101I7.hg38.ctss.fwd.bw	colon, fetal, donor1.CNhs11780.10070-101I7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+corpus callosum, adult, pool1.CNhs10649.10042-101F6.hg38.ctss.fwd.bw	corpus callosum, adult, pool1.CNhs10649.10042-101F6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+cruciate ligament, donor2.CNhs13439.10295-104G7.hg38.ctss.fwd.bw	cruciate ligament, donor2.CNhs13439.10295-104G7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+diaphragm, fetal, donor1.CNhs11779.10069-101I6.hg38.ctss.fwd.bw	diaphragm, fetal, donor1.CNhs11779.10069-101I6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+ductus deferens, adult.CNhs12846.10196-103E7.hg38.ctss.fwd.bw	ductus deferens, adult.CNhs12846.10196-103E7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+duodenum, fetal, donor1, tech_rep1.CNhs11781.10071-101I8.hg38.ctss.fwd.bw	duodenum, fetal, donor1, tech_rep1.CNhs11781.10071-101I8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+duodenum, fetal, donor1, tech_rep2.CNhs12997.10071-101I8.hg38.ctss.fwd.bw	duodenum, fetal, donor1, tech_rep2.CNhs12997.10071-101I8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+dura mater, adult, donor1.CNhs10648.10041-101F5.hg38.ctss.fwd.bw	dura mater, adult, donor1.CNhs10648.10041-101F5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+caudate nucleus, adult, donor10258.CNhs14232.10379-105H1.hg38.ctss.fwd.bw	caudate nucleus, adult, donor10258.CNhs14232.10379-105H1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+caudate nucleus, adult, donor10252.CNhs12321.10164-103B2.hg38.ctss.fwd.bw	caudate nucleus, adult, donor10252.CNhs12321.10164-103B2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+caudate nucleus - adult, donor10196.CNhs13802.10177-103C6.hg38.ctss.fwd.bw	caudate nucleus - adult, donor10196.CNhs13802.10177-103C6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+breast, adult, donor1.CNhs11792.10080-102A8.hg38.ctss.fwd.bw	breast, adult, donor1.CNhs11792.10080-102A8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+vagina, adult.CNhs12854.10204-103F6.hg38.ctss.fwd.bw	vagina, adult.CNhs12854.10204-103F6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+achilles tendon, donor2.CNhs13435.10292-104G4.hg38.ctss.fwd.bw	achilles tendon, donor2.CNhs13435.10292-104G4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+adipose, donor1.CNhs13972.10184-103D4.hg38.ctss.fwd.bw	adipose, donor1.CNhs13972.10184-103D4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+adipose, donor2.CNhs13973.10185-103D5.hg38.ctss.fwd.bw	adipose, donor2.CNhs13973.10185-103D5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+adipose, donor3.CNhs13974.10186-103D6.hg38.ctss.fwd.bw	adipose, donor3.CNhs13974.10186-103D6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+adipose, donor4.CNhs13975.10187-103D7.hg38.ctss.fwd.bw	adipose, donor4.CNhs13975.10187-103D7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+adipose tissue, adult, pool1.CNhs10615.10010-101C1.hg38.ctss.fwd.bw	adipose tissue, adult, pool1.CNhs10615.10010-101C1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+adrenal gland, adult, pool1.CNhs11793.10081-102A9.hg38.ctss.fwd.bw	adrenal gland, adult, pool1.CNhs11793.10081-102A9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+amygdala - adult, donor10196.CNhs13793.10167-103B5.hg38.ctss.fwd.bw	amygdala - adult, donor10196.CNhs13793.10167-103B5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+epididymis, adult.CNhs12847.10197-103E8.hg38.ctss.fwd.bw	epididymis, adult.CNhs12847.10197-103E8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+amygdala, adult, donor10252.CNhs12311.10151-102I7.hg38.ctss.fwd.bw	amygdala, adult, donor10252.CNhs12311.10151-102I7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+aorta, adult, pool1.CNhs11760.10052-101G7.hg38.ctss.fwd.bw	aorta, adult, pool1.CNhs11760.10052-101G7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+appendix, adult.CNhs12842.10189-103D9.hg38.ctss.fwd.bw	appendix, adult.CNhs12842.10189-103D9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+artery, adult.CNhs12843.10190-103E1.hg38.ctss.fwd.bw	artery, adult.CNhs12843.10190-103E1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+bladder, adult, pool1.CNhs10616.10011-101C2.hg38.ctss.fwd.bw	bladder, adult, pool1.CNhs10616.10011-101C2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+blood, adult, pool1.CNhs11761.10053-101G8.hg38.ctss.fwd.bw	blood, adult, pool1.CNhs11761.10053-101G8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+bone marrow, adult.CNhs12845.10192-103E3.hg38.ctss.fwd.bw	bone marrow, adult.CNhs12845.10192-103E3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+brain, adult, donor1.CNhs11796.10084-102B3.hg38.ctss.fwd.bw	brain, adult, donor1.CNhs11796.10084-102B3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+brain, adult, pool1.CNhs10617.10012-101C3.hg38.ctss.fwd.bw	brain, adult, pool1.CNhs10617.10012-101C3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+brain, fetal, pool1.CNhs11797.10085-102B4.hg38.ctss.fwd.bw	brain, fetal, pool1.CNhs11797.10085-102B4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+amygdala, newborn, donor10223.CNhs14078.10360-105E9.hg38.ctss.fwd.bw	amygdala, newborn, donor10223.CNhs14078.10360-105E9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+esophagus, adult, pool1.CNhs10620.10015-101C6.hg38.ctss.fwd.bw	esophagus, adult, pool1.CNhs10620.10015-101C6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+eye, fetal, donor1.CNhs11762.10054-101G9.hg38.ctss.fwd.bw	eye, fetal, donor1.CNhs11762.10054-101G9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+eye - muscle inferior rectus, donor1.CNhs13444.10272-104E2.hg38.ctss.fwd.bw	eye - muscle inferior rectus, donor1.CNhs13444.10272-104E2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+kidney, fetal, pool1.CNhs10652.10045-101F9.hg38.ctss.fwd.bw	kidney, fetal, pool1.CNhs10652.10045-101F9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+left atrium, adult, donor1.CNhs11790.10079-102A7.hg38.ctss.fwd.bw	left atrium, adult, donor1.CNhs11790.10079-102A7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+left ventricle, adult, donor1.CNhs11789.10078-102A6.hg38.ctss.fwd.bw	left ventricle, adult, donor1.CNhs11789.10078-102A6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+liver, adult, pool1.CNhs10624.10018-101C9.hg38.ctss.fwd.bw	liver, adult, pool1.CNhs10624.10018-101C9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+liver, fetal, pool1.CNhs11798.10086-102B5.hg38.ctss.fwd.bw	liver, fetal, pool1.CNhs11798.10086-102B5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+locus coeruleus - adult, donor10196.CNhs13808.10182-103D2.hg38.ctss.fwd.bw	locus coeruleus - adult, donor10196.CNhs13808.10182-103D2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+locus coeruleus, adult, donor10252.CNhs12322.10165-103B3.hg38.ctss.fwd.bw	locus coeruleus, adult, donor10252.CNhs12322.10165-103B3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+locus coeruleus, adult, donor10258.CNhs14550.10375-105G6.hg38.ctss.fwd.bw	locus coeruleus, adult, donor10258.CNhs14550.10375-105G6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+locus coeruleus, newborn, donor10223.CNhs14080.10362-105F2.hg38.ctss.fwd.bw	locus coeruleus, newborn, donor10223.CNhs14080.10362-105F2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+kidney, adult, pool1.CNhs10622.10017-101C8.hg38.ctss.fwd.bw	kidney, adult, pool1.CNhs10622.10017-101C8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+lung, adult, pool1.CNhs10625.10019-101D1.hg38.ctss.fwd.bw	lung, adult, pool1.CNhs10625.10019-101D1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+lung, right lower lobe, adult, donor1.CNhs11786.10075-102A3.hg38.ctss.fwd.bw	lung, right lower lobe, adult, donor1.CNhs11786.10075-102A3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+lymph node, adult, donor1.CNhs11788.10077-102A5.hg38.ctss.fwd.bw	lymph node, adult, donor1.CNhs11788.10077-102A5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medial frontal gyrus - adult, donor10196.CNhs13796.10170-103B8.hg38.ctss.fwd.bw	medial frontal gyrus - adult, donor10196.CNhs13796.10170-103B8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medial frontal gyrus, adult, donor10252.CNhs12310.10150-102I6.hg38.ctss.fwd.bw	medial frontal gyrus, adult, donor10252.CNhs12310.10150-102I6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medial frontal gyrus, adult, donor10258.CNhs14221.10368-105F8.hg38.ctss.fwd.bw	medial frontal gyrus, adult, donor10258.CNhs14221.10368-105F8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medial frontal gyrus, newborn, donor10223.CNhs14069.10352-105E1.hg38.ctss.fwd.bw	medial frontal gyrus, newborn, donor10223.CNhs14069.10352-105E1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medial temporal gyrus - adult, donor10196.CNhs13809.10183-103D3.hg38.ctss.fwd.bw	medial temporal gyrus - adult, donor10196.CNhs13809.10183-103D3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medial temporal gyrus, adult, donor10252.CNhs12316.10156-103A3.hg38.ctss.fwd.bw	medial temporal gyrus, adult, donor10252.CNhs12316.10156-103A3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medial temporal gyrus, adult, donor10258, tech_rep1.CNhs14229.10376-105G7.hg38.ctss.fwd.bw	medial temporal gyrus, adult, donor10258, tech_rep1.CNhs14229.10376-105G7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+lung, fetal, donor1.CNhs11680.10068-101I5.hg38.ctss.fwd.bw	lung, fetal, donor1.CNhs11680.10068-101I5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+medial temporal gyrus, newborn, donor10223.CNhs14070.10353-105E2.hg38.ctss.fwd.bw	medial temporal gyrus, newborn, donor10223.CNhs14070.10353-105E2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+insula, adult, pool1.CNhs10646.10039-101F3.hg38.ctss.fwd.bw	insula, adult, pool1.CNhs10646.10039-101F3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+hippocampus, adult, donor10258.CNhs14227.10374-105G5.hg38.ctss.fwd.bw	hippocampus, adult, donor10258.CNhs14227.10374-105G5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+eye - muscle lateral, donor2.CNhs13442.10298-104H1.hg38.ctss.fwd.bw	eye - muscle lateral, donor2.CNhs13442.10298-104H1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+eye - muscle medial, donor2.CNhs13443.10299-104H2.hg38.ctss.fwd.bw	eye - muscle medial, donor2.CNhs13443.10299-104H2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+eye - muscle superior, donor2.CNhs13441.10297-104G9.hg38.ctss.fwd.bw	eye - muscle superior, donor2.CNhs13441.10297-104G9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+eye - vitreous humor, donor1.CNhs13440.10268-104D7.hg38.ctss.fwd.bw	eye - vitreous humor, donor1.CNhs13440.10268-104D7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+Fingernail (including nail plate, eponychium and hyponychium), donor2.CNhs13445.10301-104H4.hg38.ctss.fwd.bw	Fingernail (including nail plate, eponychium and hyponychium), donor2.CNhs13445.10301-104H4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+frontal lobe, adult, pool1.CNhs10647.10040-101F4.hg38.ctss.fwd.bw	frontal lobe, adult, pool1.CNhs10647.10040-101F4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+gall bladder, adult.CNhs12848.10198-103E9.hg38.ctss.fwd.bw	gall bladder, adult.CNhs12848.10198-103E9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+globus pallidus - adult, donor10196.CNhs13801.10175-103C4.hg38.ctss.fwd.bw	globus pallidus - adult, donor10196.CNhs13801.10175-103C4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+globus pallidus, adult, donor10252.CNhs12319.10161-103A8.hg38.ctss.fwd.bw	globus pallidus, adult, donor10252.CNhs12319.10161-103A8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+hippocampus, newborn, donor10223.CNhs14081.10363-105F3.hg38.ctss.fwd.bw	hippocampus, newborn, donor10223.CNhs14081.10363-105F3.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+globus pallidus, adult, donor10258.CNhs14549.10367-105F7.hg38.ctss.fwd.bw	globus pallidus, adult, donor10258.CNhs14549.10367-105F7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+heart, adult, diseased, donor1.CNhs11758.10051-101G6.hg38.ctss.fwd.bw	heart, adult, diseased, donor1.CNhs11758.10051-101G6.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+heart, adult, diseased post-infarction, donor1.CNhs11757.10050-101G5.hg38.ctss.fwd.bw	heart, adult, diseased post-infarction, donor1.CNhs11757.10050-101G5.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+heart, adult, pool1.CNhs10621.10016-101C7.hg38.ctss.fwd.bw	heart, adult, pool1.CNhs10621.10016-101C7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+heart, fetal, pool1.CNhs10653.10046-101G1.hg38.ctss.fwd.bw	heart, fetal, pool1.CNhs10653.10046-101G1.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+heart - mitral valve, adult.CNhs12855.10205-103F7.hg38.ctss.fwd.bw	heart - mitral valve, adult.CNhs12855.10205-103F7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+heart - pulmonic valve, adult.CNhs12856.10206-103F8.hg38.ctss.fwd.bw	heart - pulmonic valve, adult.CNhs12856.10206-103F8.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+heart - tricuspid valve, adult.CNhs12857.10207-103F9.hg38.ctss.fwd.bw	heart - tricuspid valve, adult.CNhs12857.10207-103F9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+hippocampus - adult, donor10196.CNhs13795.10169-103B7.hg38.ctss.fwd.bw	hippocampus - adult, donor10196.CNhs13795.10169-103B7.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+hippocampus, adult, donor10252.CNhs12312.10153-102I9.hg38.ctss.fwd.bw	hippocampus, adult, donor10252.CNhs12312.10153-102I9.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+globus pallidus, newborn, donor10223.CNhs14082.10364-105F4.hg38.ctss.fwd.bw	globus pallidus, newborn, donor10223.CNhs14082.10364-105F4.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	
+vein, adult.CNhs12844.10191-103E2.hg38.ctss.fwd.bw	vein, adult.CNhs12844.10191-103E2.hg38.ctss.rev.bw	lambda x: np.arcsinh(1000 * np.nan_to_num(x))	CAGE-seq	

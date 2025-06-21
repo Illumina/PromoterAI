@@ -1,11 +1,11 @@
 import argparse
-import tfrecords
+import promoterai.tfrecords as tfrecords
 from glob import glob
 import tensorflow as tf
-from architecture import promoterAI
+from promoterai.architecture import promoterAI
 import tensorflow.keras as tk
 import os
-from utils import CustomLearningRateScheduler, CustomModelCheckpoint
+from promoterai.utils import CustomLearningRateScheduler, CustomModelCheckpoint
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--model_folder')

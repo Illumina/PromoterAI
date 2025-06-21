@@ -4,12 +4,12 @@ import io
 setup(
     name='promoterai',
     packages=['promoterai'],
-    version='1.0rc4',
+    version='1.0rc5',
     description='Predict the impact of promoter variants on gene expression',
     long_description=io.open('README.md', encoding='utf-8').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/Illumina/PromoterAI',
-    license='PolyForm-Strict-1.0.0',
+    license='PolyForm Strict License 1.0.0',
     python_requires='>=3.8',
     install_requires=[
         'numpy>=1.20',

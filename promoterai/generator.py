@@ -121,13 +121,13 @@ class VariantDataGenerator(tk.utils.Sequence):
                 pos - self._input_length // 2:pos + self._input_length // 2
             ].seq.upper()
             if len(seq_ref) < self._input_length:
-                print(f'skipping {chrom}:{pos} {ref}>{alt}, pos issue')
+                print(f'Skipping {chrom}:{pos} {ref}>{alt}, pos issue')
                 continue
             if not ref == seq_ref[idx_ref:idx_ref + len(ref)]:
-                print(f'skipping {chrom}:{pos} {ref}>{alt}, ref issue')
+                print(f'Skipping {chrom}:{pos} {ref}>{alt}, ref issue')
                 continue
             if not set(alt).issubset({'A', 'C', 'G', 'T'}):
-                print(f'skipping {chrom}:{pos} {ref}>{alt}, alt issue')
+                print(f'Skipping {chrom}:{pos} {ref}>{alt}, alt issue')
                 continue
             seq_alt = seq_ref[:idx_ref] + alt + seq_ref[idx_ref + len(ref):]
             seq_alt = seq_alt.ljust(len(seq_ref), 'N')[:len(seq_ref)]

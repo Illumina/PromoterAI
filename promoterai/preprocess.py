@@ -2,9 +2,9 @@ import argparse
 import pandas as pd
 import pyfaidx
 import pyBigWig
-from generator import SequenceDataGenerator
+from promoterai.generator import SequenceDataGenerator
 import os
-import tfrecords
+import promoterai.tfrecords as tfrecords
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--tfr_folder')

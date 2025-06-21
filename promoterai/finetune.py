@@ -1,12 +1,12 @@
 import argparse
 import pandas as pd
 import pyfaidx
-from generator import VariantDataGenerator
+from promoterai.generator import VariantDataGenerator
 import tensorflow as tf
 import tensorflow.keras as tk
-from architecture import twin_wrap
+from promoterai.architecture import twin_wrap
 import os
-from utils import CustomLearningRateScheduler, CustomModelCheckpoint
+from promoterai.utils import CustomLearningRateScheduler, CustomModelCheckpoint
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--model_folder')
