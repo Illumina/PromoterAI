@@ -20,7 +20,7 @@ PromoterAI supports both CPU and GPU execution, and has been tested on H100 (Ten
 
 ## Variant effect prediction
 
-To score variants, organize them into a `.tsv` file with the following columns: `chrom`, `pos`, `ref`, `alt`, `strand`. If strand cannot be specified, create separate rows for each strand and aggregate predictions. Indels must be left-normalized and without special characters.
+Organize the variants into a `tsv` file with the following columns: `chrom`, `pos`, `ref`, `alt`, `strand`. If strand cannot be specified, create separate rows for each strand and aggregate predictions. Indels must be left-normalized and without special characters.
 ```tsv
 chrom	pos	ref	alt	strand
 chr16	84145214	G	T	1
@@ -30,7 +30,7 @@ chr2	55232374	C	T	-1
 chr6	108295024	C	CGG	1
 chr6	108295024	CT	C	1
 ```
-Download the appropriate reference genome `.fa` file, then run the following command:
+Download the appropriate reference genome `fa` file, then run:
 ```sh
 promoterai \
     --model_folder path/to/model \
@@ -38,11 +38,11 @@ promoterai \
     --fasta_file path/to/genome_fa \
     --input_length 20480
 ```
-Scores will be added as a new column labeled `score`, with the output file named by appending the model folder’s basename to the variant file name.
+Scores will be added as a new column labeled `score`, and written to a file created by appending the model folder name to the variant file name.
 
 ## Model training and fine-tuning
 
-Create a `.tsv` file listing the genomic positions of interest (e.g., promoters), with the following columns: `chrom`, `pos`, `strand`.
+Create a `tsv` file listing the genomic positions of interest (e.g., `data/annotation/tss_hg38.tsv`, `data/annotation/tss_mm10.tsv`), with the following required columns: `chrom`, `pos`, `strand`.
 ```tsv
 chrom	pos	strand
 chr1	11868	1
@@ -50,10 +50,9 @@ chr1	12009	1
 chr1	29569	-1
 chr1	17435	-1
 ```
-
-Download the appropriate reference genome `.fa` file and regulatory profile `.bigWig` files. Organize the `.bigWig` file paths and their corresponding transformations into a `.tsv` file, where each row represents a prediction target, with the following columns:  
-- `fwd`: path to the forward-strand `.bigWig` file  
-- `rev`: path to the reverse-strand `.bigWig` file  
+Download the appropriate reference genome `fa` file and regulatory profile `bigwig` files. Organize the `bigwig` file paths and their corresponding transformations into a `tsv` file (e.g., `data/bigwig/hg38.tsv`, `data/bigwig/mm10.tsv`), where each row represents a prediction target, with the following required columns:  
+- `fwd`: path to the forward-strand `bigwig` file  
+- `rev`: path to the reverse-strand `bigwig` file  
 - `xform`: transformation applied to the prediction target  
 ```tsv
 fwd	rev	xform
@@ -62,7 +61,7 @@ path/to/ENCFF279QDX.bigWig	path/to/ENCFF279QDX.bigWig	lambda x: np.arcsinh(np.na
 path/to/ENCFF480GFU.bigWig	path/to/ENCFF480GFU.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))
 path/to/ENCFF815ONV.bigWig	path/to/ENCFF815ONV.bigWig	lambda x: np.arcsinh(np.nan_to_num(x))
 ```
-Generate TFRecord files by running the following command, which can be parallelized across chromosomes for speed:
+Generate TFRecord files by running the command below, which can be parallelized across chromosomes for speed:
 ```sh
 for chrom in $(cut -f1 path/to/position_tsv | sort -u | grep -v chrom)
 do
@@ -77,20 +76,19 @@ do
         --chunk_size 256
 done
 ```
-For multi-species training, repeat the steps above for each species, writing TFRecord files to separate folders. Use the command below to train a model on the generated TFRecord files:
+For multi-species training, repeat the steps above for each species, writing TFRecord files to separate folders. Train a model on the generated TFRecord files by running:
 ```sh
 python -m promoterai.train \
     --model_folder path/to/trained_model \
     --tfr_human_folder path/to/human_tfrecord \
-    --tfr_nonhuman_folders [path/to/mouse_tfrecord ...] \  # optional
     --input_length 20480 \
     --output_length 4096 \
     --num_blocks 24 \
     --model_dim 1024 \
-    --batch_size 32
+    --batch_size 32 \
+    --tfr_nonhuman_folders [path/to/mouse_tfrecord ...]  # optional list
 ```
-
-Fine-tune the trained model on `data/annotation/finetune_gtex.tsv` using the command below:
+Fine-tune the trained model using the variant file `data/annotation/finetune_gtex.tsv` by running:
 ```sh
 python -m promoterai.finetune \
     --model_folder path/to/trained_model \
@@ -99,7 +97,7 @@ python -m promoterai.finetune \
     --input_length 20480 \
     --batch_size 8
 ```
-The fine-tuned model will be saved in a new folder with `_finetune` appended to the trained model folder name.
+The fine-tuned model will be saved in a folder created by appending `_finetune` to the trained model folder name.
 
 ## Contact
 

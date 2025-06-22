@@ -1,9 +1,9 @@
-import sys
-from pathlib import Path
 import argparse
+from pathlib import Path
 import tensorflow.keras as tk
 import pandas as pd
 import pyfaidx
+import sys
 from promoterai.generator import VariantDataGenerator
 from promoterai.architecture import twin_wrap
 import numpy as np
@@ -29,7 +29,7 @@ def main():
     required_cols = {'chrom', 'pos', 'ref', 'alt', 'strand'}
     missing_cols = required_cols - set(df_var.columns)
     if missing_cols:
-        print(f'Variant file missing {missing_cols} column(s)')
+        print(f'Variant file missing column(s): {missing_cols}')
         sys.exit(1)
 
     gen_var = VariantDataGenerator(df_var, fasta, args.input_length, 1)
