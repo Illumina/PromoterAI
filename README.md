@@ -4,6 +4,8 @@ This repository contains the source code for PromoterAI, a deep learning model f
 
 PromoterAI precomputed scores for all human promoter single nucleotide variants are freely available for academic and non-commercial research use. Please complete the [license agreement](https://illumina2.na1.adobesign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhAuRnD5FtTNwyNo-5X6njTJqQOOMu3V_0nU0MjxSi_9PLCrquWaKSRrT3e1RhHkr7w*); the download link will be shared via email shortly after submission. Scores range from –1 to 1, with negative values indicating under-expression and positive values indicating over-expression. Recommended thresholds are ±0.1, ±0.2, and ±0.5.
 
+Purchase of AI scores and models for commercial use is available at [AI_licensing@illumina.com](mailto:AI_licensing@illumina.com) and will be delivered as a package through Illumina Connected Analytics software.
+
 ## Installation
 
 The simplest way to install PromoterAI for variant effect prediction is through:
